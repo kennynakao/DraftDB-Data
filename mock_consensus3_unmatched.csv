@@ -1,0 +1,199 @@
+draft_year,site,ts,kind,pid,actual_pick,note
+2023,bleacherreport,20230621205444,alt_valid_capture_not_used,,,https://bleacherreport.com/articles/10077669-2023-nba-mock-draft-updated-full-2-round-predictions
+2023,bleacherreport,20230621202108,alt_valid_capture_not_used,,,https://bleacherreport.com/articles/10077669-brs-final-2023-nba-mock-draft-full-2-round-predictions
+2023,usatoday,20230604225218,top30_pick_not_found_on_page,P0db0d3c576,19.0,brandin podziemski
+2023,usatoday,20230604225218,top30_pick_not_found_on_page,Pbcdd20a9f9,24.0,oliviermaxence prosper
+2023,usatoday,20230604225218,top30_pick_not_found_on_page,P26ad072598,25.0,marcus sasser
+2023,usatoday,20230604225218,top30_pick_not_found_on_page,P2a6c79e3dc,26.0,ben sheppard
+2023,usatoday,20230604225218,top30_pick_not_found_on_page,P6187cee451,28.0,brice sensabaugh
+2023,usatoday,20230604225218,top30_pick_not_found_on_page,P5698276a02,29.0,julian strawther
+2023,usatoday,20230604225218,top30_pick_not_found_on_page,P7075ac01b8,30.0,kobe brown
+2023,usatoday,20230604091105,alt_valid_capture_not_used,,,https://www.usatoday.com/story/sports/nba/2023/05/17/nba-mock-draft-lottery-victor-wembanyama/70221731007/
+2022,bleacherreport,20220617094733,alt_valid_capture_not_used,,,https://bleacherreport.com/articles/10037673-2022-nba-mock-draft-how-3-trades-can-shake-up-the-top-10
+2022,yahoo,20220623212520,top30_pick_not_found_on_page,P63014948f5,23.0,david roddy
+2022,yahoo,20220623212520,top30_pick_not_found_on_page,Pa6b76d042d,26.0,wendell moore
+2022,yahoo,20220623212520,top30_pick_not_found_on_page,P8be99fecd0,28.0,patrick baldwin
+2022,yahoo,20220623212520,top30_pick_not_found_on_page,Pc69570e4d2,30.0,peyton watson
+2022,yahoo,20220623145015,alt_valid_capture_not_used,,,https://sports.yahoo.com/2022-nba-mock-draft-projecting-172600778.html
+2022,si,20220623132615,alt_valid_capture_not_used,,,https://www.si.com/nba/2022/06/06/nba-mock-draft-jabari-smith-chet-holmgren-paolo-banchero-jaden-ivey
+2022,si,20220623180619,alt_valid_capture_not_used,,,https://www.si.com/nba/2022/06/20/nba-mock-draft-jabari-smith-chet-holmgren-paolo-banchero-latest-buzz-predictions
+2022,usatoday,20220623183309,top30_pick_not_found_on_page,P3b1e823247,21.0,christian braun
+2022,usatoday,20220623183309,top30_pick_not_found_on_page,P63014948f5,23.0,david roddy
+2022,usatoday,20220623183309,top30_pick_not_found_on_page,P8be99fecd0,28.0,patrick baldwin
+2022,usatoday,20220623183309,top30_pick_not_found_on_page,Pc69570e4d2,30.0,peyton watson
+2021,si,20210729190915,top30_pick_not_found_on_page,Pb3cfb2c388,16.0,alperen sengun
+2021,si,20210729190915,top30_pick_not_found_on_page,Pe28113186c,27.0,cam thomas
+2021,si,20210729190915,top30_pick_not_found_on_page,Pe728a39ea0,29.0,dayron sharpe
+2021,si,20210727232947,alt_valid_capture_not_used,,,https://www.si.com/nba/2021/07/20/nba-mock-draft-cade-cunningham-evan-mobley-jalen-green
+2021,si,20210728154048,alt_valid_capture_not_used,,,https://www.si.com/nba/2021/07/26/nba-mock-draft-2021-latest-buzz-rumors-cade-cunningham-jalen-green
+2021,si,20210729174337,alt_valid_capture_not_used,,,https://www.si.com/nba/2021/07/29/nba-mock-draft-2021-rumors-cade-cunningham-jalen-green-evan-mobley
+2020,bleacherreport,20201118162219,alt_valid_capture_not_used,,,https://bleacherreport.com/articles/2881349-2020-nba-mock-draft-questions-loom-during-basketball-hiatus
+2020,si,20201118042335,alt_valid_capture_not_used,,,https://www.si.com/nba/2020/11/16/nba-mock-draft-latest-updates-rumors-daily-cover
+2020,si,20201117221601,alt_valid_capture_not_used,,,https://www.si.com/nba/2020/10/14/nba-mock-draft-projections-post-finals
+2020,usatoday,20201118144510,top30_pick_not_found_on_page,Pe237a28a37,22.0,zeke nnaji
+2020,usatoday,20201118144510,top30_pick_not_found_on_page,P63236d3a70,25.0,immanuel quickley
+2020,usatoday,20201118144510,top30_pick_not_found_on_page,Pf46613d969,26.0,payton pritchard
+2020,usatoday,20201118144510,top30_pick_not_found_on_page,P08bc96e9be,27.0,udoka azubuike
+2020,usatoday,20201118144510,top30_pick_not_found_on_page,P5be180758a,30.0,desmond bane
+2020,usatoday,20201117140730,alt_valid_capture_not_used,,,https://www.usatoday.com/story/sports/nba/2020/11/05/nba-mock-draft-lamelo-ball-dips-riskier-pick-anthony-edwards/6120393002/
+2020,usatoday,20201117221601,alt_valid_capture_not_used,,,https://www.usatoday.com/story/sports/nba/2020/10/29/nba-mock-draft-lamelo-ball-anthony-edwards-first-pick/6037844002/
+2020,usatoday,20201118143701,alt_valid_capture_not_used,,,https://www.usatoday.com/story/sports/nba/2020/11/17/nba-mock-draft-anthony-edwards-lamelo-ball/6325126002/
+2019,bleacherreport,20190619142100,alt_valid_capture_not_used,,,https://bleacherreport.com/articles/2841570-2019-nba-mock-draft-predictions-for-zion-williamson-and-1st-round-prospects
+2019,bleacherreport,20190620140010,alt_valid_capture_not_used,,,https://bleacherreport.com/articles/2841703-nba-mock-draft-2019-1st-round-predictions-and-top-prospects-on-the-rise
+2019,bleacherreport,20190523192652,alt_valid_capture_not_used,,,https://bleacherreport.com/articles/2811588-final-2019-nba-mock-draft-before-the-new-year
+2019,nbcsports,20190620162507,top30_pick_not_found_on_page,Pb14f594f0a,11.0,cameron johnson
+2019,nbcsports,20190620162507,top30_pick_not_found_on_page,P7c5888ec9d,16.0,chuma okeke
+2019,nbcsports,20190620162507,top30_pick_not_found_on_page,P9b3e496395,19.0,luka samanic
+2019,nbcsports,20190620162507,top30_pick_not_found_on_page,P4832cf3ea3,20.0,matisse thybulle
+2019,nbcsports,20190620162507,top30_pick_not_found_on_page,Pb15c668c3a,23.0,darius bazley
+2019,nbcsports,20190620130430,alt_valid_capture_not_used,,,https://nba.nbcsports.com/2019/06/19/nba-mock-draft-7-0-the-final-mock-before-the-draft-starts/
+2019,si,20190620213003,top30_pick_not_found_on_page,P4a79c6caeb,12.0,pj washington
+2019,si,20190620213003,top30_pick_not_found_on_page,P714602a9aa,14.0,romeo langford
+2019,si,20190620213003,top30_pick_not_found_on_page,P4832cf3ea3,20.0,matisse thybulle
+2019,si,20190620213003,top30_pick_not_found_on_page,P023bbe5ec1,22.0,grant williams
+2019,si,20190620213003,top30_pick_not_found_on_page,Pb15c668c3a,23.0,darius bazley
+2019,si,20190620213003,top30_pick_not_found_on_page,Pf1b3205a09,26.0,dylan windler
+2019,si,20190620213003,top30_pick_not_found_on_page,Pefa2378416,28.0,jordan poole
+2019,si,20190618223246,alt_valid_capture_not_used,,,https://www.si.com/nba/2019/06/17/nba-mock-draft-anthony-davis-trade-zion-williamson-ja-morant-rj-barrett-jarrett-culver-pelicans-grizzlies-knicks-lakers
+2019,si,20190620131342,alt_valid_capture_not_used,,,https://www.si.com/nba/2019/06/19/nba-mock-draft-trade-rumors-zion-williamson-ja-morant-rj-barrett
+2023,foxsports,20230622194611,top30_pick_not_found_on_page,P9a144a10c5,21.0,noah clowney
+2023,foxsports,20230622194611,top30_pick_not_found_on_page,P26ad072598,25.0,marcus sasser
+2023,foxsports,20230622194611,top30_pick_not_found_on_page,P5698276a02,29.0,julian strawther
+2023,foxsports,20230622194611,top30_pick_not_found_on_page,P7075ac01b8,30.0,kobe brown
+2023,foxsports,20230531162613,alt_valid_capture_not_used,,,https://www.foxsports.com/stories/nba/2023-nba-mock-draft-plenty-of-intrigue-following-victor-wembanyama
+2023,foxsports,20230622183527,alt_valid_capture_not_used,,,https://www.foxsports.com/stories/nba/2023-nba-mock-draft-3-0-who-snags-scoot-henderson-brandon-miller-or-thompson-twins
+2023,sbnation,20230622191242,top30_pick_not_found_on_page,P3dd06c5ebd,18.0,jaime jaquez
+2023,sbnation,20230622135601,alt_valid_capture_not_used,,,https://www.sbnation.com/nba/2023/6/12/23755905/nba-mock-draft-2023-first-round-update-victor-wembanyama-scoot-henderson
+2023,sbnation,20230622142259,alt_valid_capture_not_used,,,https://www.sbnation.com/nba/2023/6/19/23761689/nba-mock-draft-2023-first-round-latest-projection-perfect-picks
+2023,sbnation,20230622172716,alt_valid_capture_not_used,,,https://www.sbnation.com/nba/2023/6/20/23764760/2023-nba-mock-draft-projections-victor-wembanyama-scoot-henderson-brandon-miller
+2022,foxsports,20220623144408,top30_pick_not_found_on_page,Pa89859be17,12.0,jalen williams
+2022,foxsports,20220623144408,top30_pick_not_found_on_page,P97df826a61,19.0,jake laravia
+2022,foxsports,20220623144408,top30_pick_not_found_on_page,P3b1e823247,21.0,christian braun
+2022,foxsports,20220623144408,top30_pick_not_found_on_page,Pa5128e8532,22.0,walker kessler
+2022,foxsports,20220623144408,top30_pick_not_found_on_page,P63014948f5,23.0,david roddy
+2022,foxsports,20220623144408,top30_pick_not_found_on_page,Pa6b76d042d,26.0,wendell moore
+2022,foxsports,20220623144408,top30_pick_not_found_on_page,Pc69570e4d2,30.0,peyton watson
+2022,foxsports,20220623073955,alt_valid_capture_not_used,,,https://www.foxsports.com/stories/nba/nba-mock-draft-jabari-smith-remains-safe-bet-for-magic-at-no-1
+2022,sbnation,20220623141522,top30_pick_not_found_on_page,P63014948f5,23.0,david roddy
+2022,sbnation,20220623141522,top30_pick_not_found_on_page,Pa6b76d042d,26.0,wendell moore
+2022,sbnation,20220623141522,top30_pick_not_found_on_page,Pc69570e4d2,30.0,peyton watson
+2022,sbnation,20220623122421,alt_valid_capture_not_used,,,https://www.sbnation.com/nba/2022/6/15/23166148/nba-mock-draft-2022-updated-projection-after-withdrawal-deadline-best-pick-most-likely
+2022,sbnation,20220622160154,alt_valid_capture_not_used,,,https://www.sbnation.com/nba/2022/5/17/23060018/nba-mock-draft-2022-instant-first-round-picks-final-order
+2021,sbnation,20210729192446,top30_pick_not_found_on_page,P4e35bd6add,12.0,joshua primo
+2021,sbnation,20210729192446,top30_pick_not_found_on_page,Pf6213e9937,24.0,josh christopher
+2021,sbnation,20210729192446,top30_pick_not_found_on_page,P88205fde52,25.0,quentin grimes
+2021,sbnation,20210729192446,top30_pick_not_found_on_page,Pe728a39ea0,29.0,dayron sharpe
+2021,sbnation,20210729192446,top30_pick_not_found_on_page,P213b82c86a,30.0,santi aldama
+2021,sbnation,20210628052948,alt_valid_capture_not_used,,,https://www.sbnation.com/nba/2021/6/17/22534812/nba-mock-draft-2021-lottery-order-first-round-cade-cunningham
+2021,sbnation,20210727233002,alt_valid_capture_not_used,,,https://www.sbnation.com/nba/2021/6/22/22539039/nba-mock-draft-2021-instant-first-round-picks-detroit-pistons
+2021,sbnation,20210728181033,alt_valid_capture_not_used,,,https://www.sbnation.com/nba/2021/7/22/22583959/nba-mock-draft-2021-sb-nation-bloggers-make-picks
+2020,basketballnews,20201103132050,top30_pick_not_found_on_page,P63236d3a70,25.0,immanuel quickley
+2020,basketballnews,20201103132050,top30_pick_not_found_on_page,Pf46613d969,26.0,payton pritchard
+2020,basketballnews,20201103132050,top30_pick_not_found_on_page,P08bc96e9be,27.0,udoka azubuike
+2020,basketballnews,20201103132050,top30_pick_not_found_on_page,P5be180758a,30.0,desmond bane
+2020,basketballnews,20201021221149,alt_valid_capture_not_used,,,https://www.basketballnews.com/stories/nba-mock-draft-rumors-2020-lamelo-ball-obi-toppin-james-wiseman-anthony-edwards-minnesota-timberwolves-chicago-bulls-predictions
+2020,foxsports,20201112022502,top30_pick_not_found_on_page,Pe0b660d280,16.0,isaiah stewart
+2020,foxsports,20201112022502,top30_pick_not_found_on_page,P0cd98a270c,18.0,josh green
+2020,foxsports,20201112022502,top30_pick_not_found_on_page,Pe237a28a37,22.0,zeke nnaji
+2020,foxsports,20201112022502,top30_pick_not_found_on_page,P63236d3a70,25.0,immanuel quickley
+2020,foxsports,20201112022502,top30_pick_not_found_on_page,Pf46613d969,26.0,payton pritchard
+2020,foxsports,20201112022502,top30_pick_not_found_on_page,P08bc96e9be,27.0,udoka azubuike
+2020,foxsports,20201112022502,top30_pick_not_found_on_page,Pa7dbf13041,28.0,jaden mcdaniels
+2020,foxsports,20201027044815,alt_valid_capture_not_used,,,https://www.foxsports.com/stories/nba/nba-mock-draft-3-0
+2020,sbnation,20201118194704,top30_pick_not_found_on_page,Pe0b660d280,16.0,isaiah stewart
+2020,sbnation,20201118194704,top30_pick_not_found_on_page,P63236d3a70,25.0,immanuel quickley
+2020,sbnation,20201118194704,top30_pick_not_found_on_page,Pf46613d969,26.0,payton pritchard
+2020,sbnation,20201118194704,top30_pick_not_found_on_page,P08bc96e9be,27.0,udoka azubuike
+2020,sbnation,20201118194704,top30_pick_not_found_on_page,Pa7dbf13041,28.0,jaden mcdaniels
+2020,sbnation,20201108174625,alt_valid_capture_not_used,,,https://www.sbnation.com/nba/2020/11/5/21546769/nba-mock-draft-2020-lamelo-ball-anthony-edwards-warriors-bulls-rumors
+2020,sbnation,20201117183756,alt_valid_capture_not_used,,,https://www.sbnation.com/nba/2020/11/12/21557121/nba-mock-draft-2020-team-writers-picks-anthony-edwards?utm_source=twitter&utm_campaign=sbnation.socialflow&utm_content=sbnation&utm_medium=social
+2019,sbnation,20190619123042,top30_pick_not_found_on_page,P9b3e496395,19.0,luka samanic
+2019,sbnation,20190619123042,top30_pick_not_found_on_page,Pb16e641fe9,24.0,ty jerome
+2019,sbnation,20190619123042,top30_pick_not_found_on_page,Pf1b3205a09,26.0,dylan windler
+2019,sbnation,20190619123042,top30_pick_not_found_on_page,Pefa2378416,28.0,jordan poole
+2019,sbnation,20190517205814,alt_valid_capture_not_used,,,https://www.sbnation.com/nba/2019/5/14/18536853/nba-mock-draft-2019-lottery-zion-williamson-new-orleans-pelicans-grizzlies-order
+2024,bleacherreport,20240626173708,top30_pick_not_found_on_page,Pe083952d4c,5.0,ronald holland
+2024,bleacherreport,20240626173708,top30_pick_not_found_on_page,P4bd2cd3d34,14.0,bub carrington
+2024,bleacherreport,20240626173708,top30_pick_not_found_on_page,P9f04775c7a,19.0,jakobe walter
+2024,bleacherreport,20240626042627,alt_valid_capture_not_used,,,https://bleacherreport.com/articles/10118310-2024-nba-mock-draft-lottery-simulation-and-full-2-round-predictions
+2024,usatoday,20240626214855,top30_pick_not_found_on_page,Pe083952d4c,5.0,ronald holland
+2024,usatoday,20240626214855,top30_pick_not_found_on_page,P4bd2cd3d34,14.0,bub carrington
+2024,usatoday,20240626214855,top30_pick_not_found_on_page,Pf120e8dc11,20.0,jaylon tyson
+2024,usatoday,20240626214855,top30_pick_not_found_on_page,P7070c905f3,23.0,aj johnson
+2024,usatoday,20240626214855,top30_pick_not_found_on_page,P1a8fd8dc98,26.0,dillon jones
+2024,usatoday,20240624211905,alt_valid_capture_not_used,,,https://www.usatoday.com/story/sports/nba/2024/06/20/nba-mock-draft-post-finals-risacher-sarr-remain-at-top/74151429007/
+2024,foxsports,20240626204228,top30_pick_not_found_on_page,Pe083952d4c,5.0,ronald holland
+2024,foxsports,20240626204228,top30_pick_not_found_on_page,Pf120e8dc11,20.0,jaylon tyson
+2024,foxsports,20240626204228,top30_pick_not_found_on_page,P7070c905f3,23.0,aj johnson
+2024,foxsports,20240626204228,top30_pick_not_found_on_page,Pe79de9d05b,25.0,pacome dadiet
+2024,foxsports,20240626204228,top30_pick_not_found_on_page,P1a8fd8dc98,26.0,dillon jones
+2024,foxsports,20240517234306,alt_valid_capture_not_used,,,https://www.foxsports.com/stories/nba/2024-nba-mock-draft-1-0-how-high-will-zach-edey-donovan-clingan-go
+2024,foxsports,20240625190039,alt_valid_capture_not_used,,,https://www.foxsports.com/stories/nba/2024-nba-mock-draft-hawks-take-alex-sarr-top-pick-donovan-clingan-to-rockets
+2024,foxsports,20240626204207,alt_valid_capture_not_used,,,https://www.foxsports.com/stories/nba/2024-nba-mock-draft-2-0-alex-sarr-falls-no-3-zach-edey-taken-top-10
+2024,sbnation,20240626173708,top30_pick_not_found_on_page,Pe083952d4c,5.0,ronald holland
+2024,sbnation,20240626173708,top30_pick_not_found_on_page,P7070c905f3,23.0,aj johnson
+2024,sbnation,20240626173708,top30_pick_not_found_on_page,P1a8fd8dc98,26.0,dillon jones
+2024,sbnation,20240626173708,top30_pick_not_found_on_page,P086a09588e,27.0,terrence shannon
+2024,sbnation,20240626135316,alt_valid_capture_not_used,,,https://www.sbnation.com/nba/2024/6/10/24172870/nba-mock-draft-2024-perfect-picks-for-every-team
+2024,sbnation,20240626145256,alt_valid_capture_not_used,,,https://www.sbnation.com/nba/2024/6/25/24185235/nba-mock-draft-projections-alex-sarr-zaccharie-risacher-reed-sheppard
+2024,sbnation,20240626150925,alt_valid_capture_not_used,,,https://www.sbnation.com/nba/2024/6/26/24186156/nba-mock-draft-2024-final-projection-first-round-hawks-spurs?utm_campaign=sbnation&utm_content=entry&utm_medium=social&utm_source=twitter
+2025,bleacherreport,20250625020748,top30_pick_not_found_on_page,P7ba2fa977b,11.0,cedric coward
+2025,bleacherreport,20250625020748,top30_pick_not_found_on_page,P53f54898a1,16.0,yang hansen
+2025,bleacherreport,20250625020748,top30_pick_not_found_on_page,P9b4a07a3b9,22.0,drake powell
+2025,bleacherreport,20250625020748,top30_pick_not_found_on_page,P070f8d3585,30.0,yanic konan niederhauser
+2025,bleacherreport,20250615095850,alt_valid_capture_not_used,,,https://bleacherreport.com/articles/10146847-2025-nba-mock-draft-pro-comparisons-and-full-2-round-projections?utm_source=substack&utm_medium=email
+2025,si,20250624023605,top30_pick_not_found_on_page,P53f54898a1,16.0,yang hansen
+2025,si,20250624023605,top30_pick_not_found_on_page,P9b4a07a3b9,22.0,drake powell
+2025,si,20250624023605,top30_pick_not_found_on_page,Pec8256037d,26.0,ben saraf
+2025,si,20250624023605,top30_pick_not_found_on_page,P070f8d3585,30.0,yanic konan niederhauser
+2025,si,20250517133149,alt_valid_capture_not_used,,,https://www.si.com/nba/2025-nba-mock-draft-how-the-first-round-projects-after-ncaa-tournament
+2025,si,20250604141220,alt_valid_capture_not_used,,,https://www.si.com/nba/2025-nba-mock-draft-after-ncaa-deadline-older-prospects-getting-more-consideration
+2025,si,20250620054128,alt_valid_capture_not_used,,,https://www.si.com/nba/2025-nba-mock-draft-cooper-flagg-to-mavericks-all-first-round-picks-after-lottery
+2025,usatoday,20250619030111,top30_pick_not_found_on_page,P5699f03b57,9.0,collin murrayboyles
+2025,usatoday,20250619030111,top30_pick_not_found_on_page,P53f54898a1,16.0,yang hansen
+2025,usatoday,20250606054937,alt_valid_capture_not_used,,,https://www.usatoday.com/story/sports/nba/2025/05/31/nba-mock-draft-2025-meta-ai-predictions/83947538007/
+2025,usatoday,20250607053518,alt_valid_capture_not_used,,,https://www.usatoday.com/story/sports/nba/2025/06/03/nba-mock-draft-2025-grok-ai-predictions/84007813007/
+2025,usatoday,20250607190730,alt_valid_capture_not_used,,,https://www.usatoday.com/story/sports/nba/2025/06/06/nba-mock-draft-2025-chatgpt-ai-predictions/84054382007/
+2025,nbcsports,20250624175412,top30_pick_not_found_on_page,P53f54898a1,16.0,yang hansen
+2025,nbcsports,20250602211925,alt_valid_capture_not_used,,,https://www.nbcsports.com/nba/news/2025-nba-mock-draft-2-0-thunder-add-thomas-sorber-and-rasheer-fleming-asa-newell-slides-to-pacers
+2025,foxsports,20250623193735,top30_pick_not_found_on_page,P53f54898a1,16.0,yang hansen
+2025,foxsports,20250623193735,top30_pick_not_found_on_page,Pd8f68848a0,19.0,nolan traore
+2025,foxsports,20250623193735,top30_pick_not_found_on_page,Pec8256037d,26.0,ben saraf
+2025,foxsports,20250623193735,top30_pick_not_found_on_page,P070f8d3585,30.0,yanic konan niederhauser
+2025,foxsports,20250602113841,alt_valid_capture_not_used,,,https://www.foxsports.com/stories/nba/2025-nba-mock-draft-cooper-flagg-lottery
+2025,foxsports,20250612212120,alt_valid_capture_not_used,,,https://www.foxsports.com/stories/nba/2025-nba-mock-draft-vj-edgecombe-moves-top-3-cedric-coward-makes-big-leap
+2025,foxsports,20250614073740,alt_valid_capture_not_used,,,https://www.foxsports.com/stories/nba/2025-nba-mock-draft-2-0-who-goes-after-cooper-flagg
+2025,sbnation,20250624080129,top30_pick_not_found_on_page,P53f54898a1,16.0,yang hansen
+2025,sbnation,20250624080129,top30_pick_not_found_on_page,P6ddd309f80,28.0,hugo gonzalez
+2025,sbnation,20250624080129,top30_pick_not_found_on_page,Padf63a93ad,29.0,liam mcneeley
+2025,sbnation,20250624080129,top30_pick_not_found_on_page,P070f8d3585,30.0,yanic konan niederhauser
+2025,sbnation,20250613185000,alt_valid_capture_not_used,,,https://www.sbnation.com/nba/2025/6/12/24447320/nba-mock-draft-2025-perfect-picks-for-each-team
+2025,sbnation,20250614032433,alt_valid_capture_not_used,,,https://www.sbnation.com/nba/2025/5/1/24420930/nba-mock-draft-2025-pre-lottery-update-changes-inside-top-10
+2025,sbnation,20250618130902,alt_valid_capture_not_used,,,https://www.sbnation.com/nba/2025/6/2/24440050/nba-mock-draft-2025-first-round-projection-june-after-combine-withdrawal-deadline
+2026,si,20260622033805,top30_pick_not_found_on_page,P9a9f9fa8f1,9.0,morez johnson
+2026,si,20260622033805,top30_pick_not_found_on_page,Pd51160cf5e,23.0,zuby ejiofor
+2026,si,20260622033805,top30_pick_not_found_on_page,P2b19f4fd38,25.0,sergio de larrea
+2026,si,20260622033805,top30_pick_not_found_on_page,Pb4d81376d2,26.0,tarris reed
+2026,si,20260622033805,top30_pick_not_found_on_page,P279cdc2712,28.0,joshua jefferson
+2026,si,20260622033805,top30_pick_not_found_on_page,P53d139a0c8,29.0,alex karaban
+2026,si,20260622033805,top30_pick_not_found_on_page,Pf02a0c42ed,30.0,koa peat
+2026,si,20260618071321,alt_valid_capture_not_used,,,https://www.si.com/nba/mock-draft-2026-how-first-round-shakes-out-after-ncaa-withdrawal-deadline
+2026,si,20260618110342,alt_valid_capture_not_used,,,https://www.si.com/nba/2026-nba-mock-draft-where-top-players-land-after-wizards-win-lottery
+2026,nbcsports,20260526131119,alt_valid_capture_not_used,,,https://www.nbcsports.com/nba/news/nba-mock-draft-vol-2-aj-dybantsa-remains-in-the-top-spot
+2026,nbcsports,20260607082536,alt_valid_capture_not_used,,,https://www.nbcsports.com/nba/news/2026-nba-mock-draft-vol-1-wizards-land-first-overall-pick
+2018,bleacherreport,20180621142837,top30_pick_not_found_on_page,P35e592001a,6.0,mo bamba
+2018,bleacherreport,20180605012015,alt_valid_capture_not_used,,,http://bleacherreport.com:80/articles/2750626-final-2018-nba-mock-draft-before-the-new-year-trae-youngs-stock-is-rising
+2018,bleacherreport,20180617192703,alt_valid_capture_not_used,,,https://bleacherreport.com/articles/2777981-nba-mock-draft-predicting-every-pick-as-2018-finals-begin
+2018,bleacherreport,20180618133948,alt_valid_capture_not_used,,,http://bleacherreport.com:80/articles/2777981-nba-mock-draft-predicting-every-pick-as-2018-finals-begin
+2018,si,20180621162850,top30_pick_not_found_on_page,P35e592001a,6.0,mo bamba
+2018,si,20180620012747,alt_valid_capture_not_used,,,https://www.si.com/nba/2018/06/19/nba-mock-draft-2018-rumors-deandre-ayton-marvin-bagley-trae-young-suns-kings-hawks-cavaliers-knicks
+2018,si,20180620172355,alt_valid_capture_not_used,,,https://www.si.com/nba/2018/06/20/nba-mock-draft-2018-youtube-highlights-trae-young-michael-porter-jr-collin-sexton-lonnie-walker-iv
+2018,usatoday,20180621173253,top30_pick_not_found_on_page,P6ab3598ab0,13.0,jerome robinson
+2018,usatoday,20180621173253,top30_pick_not_found_on_page,P58e5b2eaa8,17.0,donte divincenzo
+2018,usatoday,20180621173253,top30_pick_not_found_on_page,P26d2a90c5b,19.0,kevin huerter
+2018,usatoday,20180621173253,top30_pick_not_found_on_page,P82bbff96e6,20.0,josh okogie
+2018,usatoday,20180621173253,top30_pick_not_found_on_page,Pdb9cad4004,21.0,grayson allen
+2018,usatoday,20180621173253,top30_pick_not_found_on_page,P5da3d9ffcd,25.0,moritz wagner
+2018,usatoday,20180621173253,top30_pick_not_found_on_page,Pf507011aa5,26.0,landry shamet
+2018,usatoday,20180617070011,alt_valid_capture_not_used,,,https://www.usatoday.com/story/sports/nba/2018/06/15/nba-mock-draft-michael-porter-jaren-jackson-marvin-bagley/703191002/
+2018,usatoday,20180621152342,alt_valid_capture_not_used,,,https://www.usatoday.com/story/sports/nba/2018/06/20/2018-nba-mock-draft-marvin-bagley-michael-porter-jr-top-5/719960002/
