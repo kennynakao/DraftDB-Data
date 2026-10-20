@@ -1,0 +1,323 @@
+{
+ "2019": {
+  "source": "league remain list",
+  "initial": 233,
+  "withdrawn": 138,
+  "remain_college": 86,
+  "remain_intl": 12,
+  "stated": [
+   86,
+   12
+  ],
+  "derived_minus_final": [],
+  "final_minus_derived": [],
+  "hr_minus_final": [],
+  "final_minus_hr": []
+ },
+ "2020": {
+  "source": "league remain list",
+  "initial": 205,
+  "withdrawn": 122,
+  "remain_college": 71,
+  "remain_intl": 15,
+  "stated": [
+   71,
+   15
+  ],
+  "derived_minus_final": [],
+  "final_minus_derived": [
+   "micheal lenoir",
+   "nikolaos okekuoyen"
+  ],
+  "hr_minus_final": [],
+  "final_minus_hr": []
+ },
+ "2021": {
+  "source": "hoops rumors official list",
+  "initial": 341,
+  "withdrawn": 136,
+  "remain_college": 209,
+  "remain_intl": 8,
+  "stated": [
+   209,
+   8
+  ],
+  "derived_minus_final": [
+   "aj lawson",
+   "d j funderburk",
+   "dalonte brown",
+   "fardaws aimaq",
+   "herbert jones",
+   "issac bonton",
+   "tj crockett",
+   "warith alatishe"
+  ],
+  "final_minus_derived": [
+   "a j lawson",
+   "bryson johnson",
+   "damek mitchell",
+   "devin whitfield",
+   "dj funderburk",
+   "elvin rodriguez",
+   "herb jones",
+   "ibi watson",
+   "isaac bonton",
+   "jalen johnson",
+   "kyree walker",
+   "sterling manley",
+   "t j crockett"
+  ],
+  "hr_minus_final": [],
+  "final_minus_hr": []
+ },
+ "2022": {
+  "source": "league remain list",
+  "initial": 283,
+  "withdrawn": 136,
+  "remain_college": 135,
+  "remain_intl": 14,
+  "stated": [
+   135,
+   14
+  ],
+  "derived_minus_final": [
+   "giorgos tanoulis"
+  ],
+  "final_minus_derived": [
+   "shareef oneal"
+  ],
+  "hr_minus_final": [
+   "d j harvey"
+  ],
+  "final_minus_hr": [
+   "dj harvey"
+  ]
+ },
+ "2023": {
+  "source": "league remain list",
+  "initial": 242,
+  "withdrawn": 152,
+  "remain_college": 84,
+  "remain_intl": 8,
+  "stated": [
+   84,
+   8
+  ],
+  "derived_minus_final": [],
+  "final_minus_derived": [],
+  "hr_minus_final": [
+   "amen thompson",
+   "ausar thompson",
+   "g g jackson",
+   "leonard miller",
+   "scoot henderson"
+  ],
+  "final_minus_hr": [
+   "gregory gg jackson"
+  ]
+ },
+ "2024": {
+  "source": "league remain list",
+  "initial": 201,
+  "withdrawn": 23,
+  "remain_college": 62,
+  "remain_intl": 15,
+  "stated": [
+   62,
+   15
+  ],
+  "derived_minus_final": [
+   "a j hoggard",
+   "a j staton mccray",
+   "abdullah ahmed",
+   "achor achor",
+   "adama bal",
+   "aj storr",
+   "alex karaban",
+   "amari williams",
+   "andrej jakimovski",
+   "andrew carr",
+   "anthony dellorso",
+   "arthur kaluma",
+   "aziz bandaogo",
+   "baba miller",
+   "baye ndongo",
+   "ben humrichous",
+   "brooks barnhizer",
+   "caleb love",
+   "cedric coward",
+   "chase hunter",
+   "chaz lanier",
+   "chibuzo agbo",
+   "cj huntley",
+   "coleman hawkins",
+   "dion brown",
+   "dj davis",
+   "dordije jovanovic",
+   "eric dixon",
+   "frankie fidler",
+   "garwey dual",
+   "great osobor",
+   "hunter sallis",
+   "igor milicic",
+   "izan almansa",
+   "jaden bradley",
+   "jahmyl telfort",
+   "jahzare jackson",
+   "jalen blackmon",
+   "jalon moore",
+   "jamir watkins",
+   "jarin stevenson",
+   "javian mccollum",
+   "jaxson robinson",
+   "jeremy roach",
+   "joe bamisile",
+   "johnell davis",
+   "jonas aidoo",
+   "jordan riley",
+   "jt toppin",
+   "kasean pryor",
+   "keyshawn hall",
+   "kino lilly",
+   "kj lewis",
+   "koby brea",
+   "lamont butler",
+   "malik bowman",
+   "malik dia",
+   "malique lewis",
+   "mark sears",
+   "markus burton",
+   "marques warrick",
+   "matthew murrell",
+   "max shulga",
+   "meechie johnson",
+   "michael ajayi",
+   "miles kelly",
+   "milos uzan",
+   "nimari burnett",
+   "nique clifford",
+   "noah farrakhan",
+   "norchad omier",
+   "payton sandfort",
+   "pelle larrson",
+   "posh alexander",
+   "rasheer fleming",
+   "reynan dos santos",
+   "rj felton",
+   "robert mccray",
+   "roberts blums",
+   "ryan kalkbrenner",
+   "saint thomas",
+   "scotty middleton",
+   "shahid muhammad",
+   "sion james",
+   "somto cyril",
+   "terrance williams",
+   "thierry darlan",
+   "toby okani",
+   "toibu lawal",
+   "trevon brazile",
+   "trey townsend",
+   "tyler harris",
+   "tyon grant foster",
+   "ugonna onyenso",
+   "walter clayton",
+   "wesley cardet",
+   "will richard",
+   "wooga poplar",
+   "xaivian lee",
+   "xavier dusell",
+   "yacine toumi",
+   "zarique nutter"
+  ],
+  "final_minus_derived": [
+   "pelle larsson"
+  ],
+  "hr_minus_final": [
+   "a j johnson",
+   "jz zaher"
+  ],
+  "final_minus_hr": [
+   "aj johnson",
+   "babacar sane",
+   "bryson warren",
+   "jalen lewis",
+   "joseph zaher",
+   "matas buzelis",
+   "ron holland",
+   "tyler smith"
+  ]
+ },
+ "2025": {
+  "source": "league remain list",
+  "initial": 106,
+  "withdrawn": 13,
+  "remain_college": 32,
+  "remain_intl": 14,
+  "stated": [
+   32,
+   14
+  ],
+  "derived_minus_final": [
+   "ak okereke",
+   "alex condon",
+   "boogie fland",
+   "brandon walker",
+   "brenen lorient",
+   "bruce thornton",
+   "camron mcdowell",
+   "chad baker mazara",
+   "chris howell",
+   "darrion williams",
+   "devin mcglockton",
+   "devon pryor",
+   "dominick harris",
+   "elijah fisher",
+   "isaiah evans",
+   "jaden bradley",
+   "jaland lowe",
+   "jaron pierre",
+   "jerry deng",
+   "john blackwell",
+   "josh hubbard",
+   "joson sanon",
+   "karter knox",
+   "kebba njie",
+   "kobe knox",
+   "labaron philon",
+   "mackenzie mgbako",
+   "melvin council",
+   "miles byrd",
+   "milos uzan",
+   "money williams",
+   "nate bittle",
+   "nick martinelli",
+   "otega oweh",
+   "paul mbiya",
+   "pj haggerty",
+   "quincy ballard",
+   "raysean seamster",
+   "rueben chinyelu",
+   "silas demary",
+   "tae davis",
+   "tahaad pettiford",
+   "tayton conerway",
+   "thierry darlan",
+   "toibu lawal",
+   "treysen eaglestaff",
+   "vj edgecombe",
+   "yaxel lendeborg"
+  ],
+  "final_minus_derived": [
+   "vj edgecomb"
+  ],
+  "hr_minus_final": [
+   "eli ndiaye",
+   "j edgecombe"
+  ],
+  "final_minus_hr": [
+   "eli john ndiaye",
+   "vj edgecomb"
+  ]
+ }
+}

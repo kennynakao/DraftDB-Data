@@ -1,0 +1,1550 @@
+{
+ "rule": {
+  "senior_min_per": 40.0,
+  "senior_gp": 10,
+  "intl_age": 22
+ },
+ "years": {
+  "2019": {
+   "n": 703,
+   "drafted": 58,
+   "undrafted": 645,
+   "sources": {
+    "senior": 593,
+    "early_entry": 82,
+    "early_entry+senior": 16,
+    "intl_22": 10,
+    "drafted_outside_rule": 2
+   },
+   "routes": {
+    "torvik_rebuild": 563,
+    "test_row": 114,
+    "none": 15,
+    "euro_rebuild": 11
+   },
+   "has_inputs": 688,
+   "reached_nba_no_outcome": 0,
+   "drafted_outside_rule": 2,
+   "existing_test_rows_dropped": [
+    {
+     "path": "college_2008plus",
+     "declared_only": 0,
+     "n": 10,
+     "with_war": 9
+    },
+    {
+     "path": "college_declared",
+     "declared_only": 1,
+     "n": 3,
+     "with_war": 0
+    },
+    {
+     "path": "college_pre2008_or_unlinked",
+     "declared_only": 0,
+     "n": 5,
+     "with_war": 5
+    },
+    {
+     "path": "international",
+     "declared_only": 0,
+     "n": 5,
+     "with_war": 5
+    }
+   ],
+   "dropped_rows": [
+    {
+     "pid": "P8eb153b63d",
+     "name": "Michael Frazier",
+     "path": "college_pre2008_or_unlinked",
+     "declared_only": 0,
+     "war5": -1.0,
+     "why": "not in Torvik season 2019"
+    },
+    {
+     "pid": "P75585aef52",
+     "name": "Eric Mika",
+     "path": "college_2008plus",
+     "declared_only": 0,
+     "war5": 0.1,
+     "why": "not in Torvik season 2019"
+    },
+    {
+     "pid": "P84a6c851a9",
+     "name": "Paul Watson",
+     "path": "college_2008plus",
+     "declared_only": 0,
+     "war5": -0.7,
+     "why": "not in Torvik season 2019"
+    },
+    {
+     "pid": "P4a4f2b1371",
+     "name": "Brian Bowen II",
+     "path": "college_pre2008_or_unlinked",
+     "declared_only": 0,
+     "war5": -0.1,
+     "why": "not in Torvik season 2019"
+    },
+    {
+     "pid": "Pf6658be174",
+     "name": "Malik Newman",
+     "path": "college_2008plus",
+     "declared_only": 0,
+     "war5": 0.1,
+     "why": "not in Torvik season 2019"
+    },
+    {
+     "pid": "P60e6add6f8",
+     "name": "Kelan Martin",
+     "path": "college_2008plus",
+     "declared_only": 0,
+     "war5": -0.2,
+     "why": "not in Torvik season 2019"
+    },
+    {
+     "pid": "Pa9b6b7ec3f",
+     "name": "Wenyen Gabriel",
+     "path": "college_2008plus",
+     "declared_only": 0,
+     "war5": 0.8,
+     "why": "not in Torvik season 2019"
+    },
+    {
+     "pid": "Pbec5e357b6",
+     "name": "Kendrick Nunn",
+     "path": "college_2008plus",
+     "declared_only": 0,
+     "war5": 3.1,
+     "why": "not in Torvik season 2019"
+    },
+    {
+     "pid": "P2061b46d22",
+     "name": "Jordan McLaughlin",
+     "path": "college_2008plus",
+     "declared_only": 0,
+     "war5": 5.9,
+     "why": "not in Torvik season 2019"
+    },
+    {
+     "pid": "P9406d39f17",
+     "name": "Gabe Vincent",
+     "path": "college_2008plus",
+     "declared_only": 0,
+     "war5": 3.9,
+     "why": "not in Torvik season 2019"
+    },
+    {
+     "pid": "P63de5d6c2a",
+     "name": "Juan Toscano-Anderson",
+     "path": "college_pre2008_or_unlinked",
+     "declared_only": 0,
+     "war5": 2.3,
+     "why": "not in Torvik season 2019"
+    },
+    {
+     "pid": "P77bf4c6cd4",
+     "name": "Vincent Poirier",
+     "path": "international",
+     "declared_only": 0,
+     "war5": -0.4,
+     "why": "not in Torvik season 2019"
+    },
+    {
+     "pid": "P2b2d444bdd",
+     "name": "William Howard",
+     "path": "international",
+     "declared_only": 0,
+     "war5": -0.2,
+     "why": "not in Torvik season 2019"
+    },
+    {
+     "pid": "P90844406b5",
+     "name": "Nicolo Melli",
+     "path": "international",
+     "declared_only": 0,
+     "war5": 0.1,
+     "why": "not in Torvik season 2019"
+    },
+    {
+     "pid": "P53a27c701d",
+     "name": "Marko Guduric",
+     "path": "international",
+     "declared_only": 0,
+     "war5": -0.5,
+     "why": "not in Torvik season 2019"
+    },
+    {
+     "pid": "P34557a899a",
+     "name": "Stanton Kidd",
+     "path": "college_pre2008_or_unlinked",
+     "declared_only": 0,
+     "war5": -0.0,
+     "why": "not in Torvik season 2019"
+    },
+    {
+     "pid": "P6514225148",
+     "name": "Matt Thomas",
+     "path": "college_2008plus",
+     "declared_only": 0,
+     "war5": 0.7,
+     "why": "not in Torvik season 2019"
+    },
+    {
+     "pid": "P4043f1171e",
+     "name": "Javonte Green",
+     "path": "college_pre2008_or_unlinked",
+     "declared_only": 0,
+     "war5": 6.4,
+     "why": "not in Torvik season 2019"
+    },
+    {
+     "pid": "P41398f1a21",
+     "name": "Norvel Pelle",
+     "path": "international",
+     "declared_only": 0,
+     "war5": -0.9,
+     "why": "not in Torvik season 2019"
+    },
+    {
+     "pid": "Pfa2560441b",
+     "name": "Mychal Mulder",
+     "path": "college_2008plus",
+     "declared_only": 0,
+     "war5": -0.2,
+     "why": "not in Torvik season 2019"
+    },
+    {
+     "pid": "Pa5b07b6f43",
+     "name": "Charlie Brown",
+     "path": "college_declared",
+     "declared_only": 1,
+     "war5": 0.0,
+     "why": "Torvik Sr, Min_per 53, GP 25"
+    },
+    {
+     "pid": "P76d288c08d",
+     "name": "Kouat Noi",
+     "path": "college_declared",
+     "declared_only": 1,
+     "war5": 0.0,
+     "why": "Torvik So, Min_per 62, GP 31"
+    },
+    {
+     "pid": "P920b587915",
+     "name": "Sacha Killeya-Jones",
+     "path": "college_declared",
+     "declared_only": 1,
+     "war5": 0.0,
+     "why": "not in Torvik season 2019"
+    }
+   ],
+   "n_seniors_rule": 644,
+   "n_seniors_returned_Y1": 16,
+   "n_seniors_namesake_dropped": 12,
+   "n_entrants": 98,
+   "n_intl22": 11,
+   "coverage_rebuilt": {
+    "col": 0.601,
+    "tc": 0.873
+   }
+  },
+  "2020": {
+   "n": 684,
+   "drafted": 58,
+   "undrafted": 626,
+   "sources": {
+    "senior": 589,
+    "early_entry": 66,
+    "early_entry+senior": 20,
+    "intl_22": 5,
+    "drafted_outside_rule": 4
+   },
+   "routes": {
+    "torvik_rebuild": 574,
+    "test_row": 94,
+    "none": 9,
+    "euro_rebuild": 7
+   },
+   "has_inputs": 675,
+   "reached_nba_no_outcome": 1,
+   "drafted_outside_rule": 4,
+   "existing_test_rows_dropped": [
+    {
+     "path": "college_2008plus",
+     "declared_only": 0,
+     "n": 11,
+     "with_war": 11
+    },
+    {
+     "path": "college_declared",
+     "declared_only": 1,
+     "n": 2,
+     "with_war": 0
+    },
+    {
+     "path": "college_pre2008_or_unlinked",
+     "declared_only": 0,
+     "n": 3,
+     "with_war": 3
+    },
+    {
+     "path": "international",
+     "declared_only": 0,
+     "n": 2,
+     "with_war": 2
+    }
+   ],
+   "dropped_rows": [
+    {
+     "pid": "Pdd324c8c3a",
+     "name": "Cameron Oliver",
+     "path": "college_2008plus",
+     "declared_only": 0,
+     "war5": -0.0,
+     "why": "not in Torvik season 2020"
+    },
+    {
+     "pid": "Pcf413465aa",
+     "name": "Amida Brimah",
+     "path": "college_2008plus",
+     "declared_only": 0,
+     "war5": 0.0,
+     "why": "not in Torvik season 2020"
+    },
+    {
+     "pid": "P007123cefb",
+     "name": "Jontay Porter",
+     "path": "college_2008plus",
+     "declared_only": 0,
+     "war5": 0.7,
+     "why": "not in Torvik season 2020"
+    },
+    {
+     "pid": "Pa5bdbe06a8",
+     "name": "Elijah Bryant",
+     "path": "college_2008plus",
+     "declared_only": 0,
+     "war5": -0.2,
+     "why": "not in Torvik season 2020"
+    },
+    {
+     "pid": "P0fec6c7ff1",
+     "name": "Robert Franks",
+     "path": "college_2008plus",
+     "declared_only": 0,
+     "war5": 0.0,
+     "why": "not in Torvik season 2020"
+    },
+    {
+     "pid": "Pc5171d01c1",
+     "name": "Armoni Brooks",
+     "path": "college_2008plus",
+     "declared_only": 0,
+     "war5": -0.4,
+     "why": "not in Torvik season 2020"
+    },
+    {
+     "pid": "Pe3d286e6c8",
+     "name": "Dakota Mathias",
+     "path": "college_2008plus",
+     "declared_only": 0,
+     "war5": -0.1,
+     "why": "not in Torvik season 2020"
+    },
+    {
+     "pid": "P2943e264b5",
+     "name": "Keljin Blevins",
+     "path": "college_2008plus",
+     "declared_only": 0,
+     "war5": -2.1,
+     "why": "not in Torvik season 2020"
+    },
+    {
+     "pid": "P72ce5af049",
+     "name": "Devin Cannady",
+     "path": "college_2008plus",
+     "declared_only": 0,
+     "war5": -0.1,
+     "why": "not in Torvik season 2020"
+    },
+    {
+     "pid": "P12d4263452",
+     "name": "Jae'Sean Tate",
+     "path": "college_2008plus",
+     "declared_only": 0,
+     "war5": 7.2,
+     "why": "not in Torvik season 2020"
+    },
+    {
+     "pid": "P56764c9c75",
+     "name": "Anthony Gill",
+     "path": "college_pre2008_or_unlinked",
+     "declared_only": 0,
+     "war5": -0.3,
+     "why": "not in Torvik season 2020"
+    },
+    {
+     "pid": "P3eb05301ef",
+     "name": "Will Magnay",
+     "path": "college_2008plus",
+     "declared_only": 0,
+     "war5": -0.1,
+     "why": "not in Torvik season 2020"
+    },
+    {
+     "pid": "Pba89c73461",
+     "name": "Facundo Campazzo",
+     "path": "international",
+     "declared_only": 0,
+     "war5": 5.4,
+     "why": "not in Torvik season 2020"
+    },
+    {
+     "pid": "P837f74ef42",
+     "name": "Brodric Thomas",
+     "path": "college_pre2008_or_unlinked",
+     "declared_only": 0,
+     "war5": 0.3,
+     "why": "not in Torvik season 2020"
+    },
+    {
+     "pid": "Pf77538a69a",
+     "name": "Gabriel Deck",
+     "path": "international",
+     "declared_only": 0,
+     "war5": 0.1,
+     "why": "not in Torvik season 2020"
+    },
+    {
+     "pid": "P2900148dca",
+     "name": "Greg Whittington",
+     "path": "college_pre2008_or_unlinked",
+     "declared_only": 0,
+     "war5": -0.1,
+     "why": "not in Torvik season 2020"
+    },
+    {
+     "pid": "P8943f8c99a",
+     "name": "Chris Smith",
+     "path": "college_declared",
+     "declared_only": 1,
+     "war5": 0.0,
+     "why": "Torvik Jr, Min_per 71, GP 30, played D-I in 2021"
+    },
+    {
+     "pid": "P051c4d4903",
+     "name": "Nojel Eastern",
+     "path": "college_declared",
+     "declared_only": 1,
+     "war5": 0.0,
+     "why": "Torvik Jr, Min_per 62, GP 31"
+    }
+   ],
+   "n_seniors_rule": 671,
+   "n_seniors_returned_Y1": 25,
+   "n_seniors_namesake_dropped": 23,
+   "n_entrants": 86,
+   "n_intl22": 5,
+   "coverage_rebuilt": {
+    "col": 0.586,
+    "tc": 0.865
+   }
+  },
+  "2021": {
+   "n": 353,
+   "drafted": 56,
+   "undrafted": 297,
+   "sources": {
+    "senior": 121,
+    "early_entry+senior": 112,
+    "early_entry": 103,
+    "intl_22": 11,
+    "drafted_outside_rule": 6
+   },
+   "routes": {
+    "test_row": 192,
+    "torvik_rebuild": 130,
+    "none": 19,
+    "euro_rebuild": 12
+   },
+   "has_inputs": 334,
+   "reached_nba_no_outcome": 0,
+   "drafted_outside_rule": 6,
+   "existing_test_rows_dropped": [
+    {
+     "path": "college_2008plus",
+     "declared_only": 0,
+     "n": 22,
+     "with_war": 22
+    },
+    {
+     "path": "college_declared",
+     "declared_only": 1,
+     "n": 4,
+     "with_war": 0
+    },
+    {
+     "path": "college_pre2008_or_unlinked",
+     "declared_only": 0,
+     "n": 12,
+     "with_war": 12
+    },
+    {
+     "path": "international",
+     "declared_only": 0,
+     "n": 3,
+     "with_war": 3
+    }
+   ],
+   "dropped_rows": [
+    {
+     "pid": "Pfb1f04f295",
+     "name": "Cat Barber",
+     "path": "college_pre2008_or_unlinked",
+     "declared_only": 0,
+     "war5": -0.1,
+     "why": "not in Torvik season 2021"
+    },
+    {
+     "pid": "P3ffd955342",
+     "name": "Gabe York",
+     "path": "college_pre2008_or_unlinked",
+     "declared_only": 0,
+     "war5": 0.0,
+     "why": "not in Torvik season 2021"
+    },
+    {
+     "pid": "P659829b9e5",
+     "name": "Paris Bass",
+     "path": "college_pre2008_or_unlinked",
+     "declared_only": 0,
+     "war5": 0.0,
+     "why": "not in Torvik season 2021"
+    },
+    {
+     "pid": "Pdd3a369707",
+     "name": "Craig Sword",
+     "path": "college_pre2008_or_unlinked",
+     "declared_only": 0,
+     "war5": 0.1,
+     "why": "not in Torvik season 2021"
+    },
+    {
+     "pid": "P64f9a357ca",
+     "name": "Jock Landale",
+     "path": "college_2008plus",
+     "declared_only": 0,
+     "war5": 5.0,
+     "why": "not in Torvik season 2021"
+    },
+    {
+     "pid": "Pdb02e7ce99",
+     "name": "Trayvon Palmer",
+     "path": "college_pre2008_or_unlinked",
+     "declared_only": 0,
+     "war5": -0.3,
+     "why": "not in Torvik season 2021"
+    },
+    {
+     "pid": "P9161b1752d",
+     "name": "Jarron Cumberland",
+     "path": "college_2008plus",
+     "declared_only": 0,
+     "war5": -0.0,
+     "why": "not in Torvik season 2021"
+    },
+    {
+     "pid": "Pcc9fe4d64c",
+     "name": "Javin DeLaurier",
+     "path": "college_2008plus",
+     "declared_only": 0,
+     "war5": 0.0,
+     "why": "not in Torvik season 2021"
+    },
+    {
+     "pid": "P8c6b1e4de6",
+     "name": "Myles Powell",
+     "path": "college_2008plus",
+     "declared_only": 0,
+     "war5": -0.2,
+     "why": "not in Torvik season 2021"
+    },
+    {
+     "pid": "P6a7cb1d3a8",
+     "name": "Lindell Wigginton",
+     "path": "college_2008plus",
+     "declared_only": 0,
+     "war5": -0.6,
+     "why": "not in Torvik season 2021"
+    },
+    {
+     "pid": "P90d6ceb081",
+     "name": "Hassani Gravett",
+     "path": "college_2008plus",
+     "declared_only": 0,
+     "war5": 0.2,
+     "why": "not in Torvik season 2021"
+    },
+    {
+     "pid": "P37de3fe8d7",
+     "name": "Shaq Buchanan",
+     "path": "college_2008plus",
+     "declared_only": 0,
+     "war5": -0.0,
+     "why": "not in Torvik season 2021"
+    },
+    {
+     "pid": "P6e0353adf2",
+     "name": "Tyler Hall",
+     "path": "college_2008plus",
+     "declared_only": 0,
+     "war5": -0.0,
+     "why": "not in Torvik season 2021"
+    },
+    {
+     "pid": "P18f1dedfcb",
+     "name": "Jaysean Paige",
+     "path": "college_pre2008_or_unlinked",
+     "declared_only": 0,
+     "war5": -0.1,
+     "why": "not in Torvik season 2021"
+    },
+    {
+     "pid": "P86aa3b2a5e",
+     "name": "Xavier Moon",
+     "path": "college_pre2008_or_unlinked",
+     "declared_only": 0,
+     "war5": -0.1,
+     "why": "not in Torvik season 2021"
+    },
+    {
+     "pid": "Pa9952fefb0",
+     "name": "Ahmad Caver",
+     "path": "college_2008plus",
+     "declared_only": 0,
+     "war5": 0.0,
+     "why": "not in Torvik season 2021"
+    },
+    {
+     "pid": "Pb52cacc824",
+     "name": "Omer Yurtseven",
+     "path": "college_2008plus",
+     "declared_only": 0,
+     "war5": 0.1,
+     "why": "not in Torvik season 2021"
+    },
+    {
+     "pid": "Pe225c37146",
+     "name": "Daishen Nix",
+     "path": "college_pre2008_or_unlinked",
+     "declared_only": 0,
+     "war5": -2.0,
+     "why": "not in Torvik season 2021"
+    },
+    {
+     "pid": "P6675265e20",
+     "name": "Trevelin Queen",
+     "path": "college_2008plus",
+     "declared_only": 0,
+     "war5": 0.6,
+     "why": "not in Torvik season 2021"
+    },
+    {
+     "pid": "P72f09d9c22",
+     "name": "Jon Teske",
+     "path": "college_2008plus",
+     "declared_only": 0,
+     "war5": -0.1,
+     "why": "not in Torvik season 2021"
+    },
+    {
+     "pid": "P2e4a40f74c",
+     "name": "Xavier Sneed",
+     "path": "college_2008plus",
+     "declared_only": 0,
+     "war5": -0.2,
+     "why": "not in Torvik season 2021"
+    },
+    {
+     "pid": "Pe896f378ca",
+     "name": "Ade Murkey",
+     "path": "college_2008plus",
+     "declared_only": 0,
+     "war5": -0.0,
+     "why": "not in Torvik season 2021"
+    },
+    {
+     "pid": "P7f3328bd09",
+     "name": "Zavier Simpson",
+     "path": "college_2008plus",
+     "declared_only": 0,
+     "war5": -0.9,
+     "why": "not in Torvik season 2021"
+    },
+    {
+     "pid": "P29e5d27062",
+     "name": "Trevon Scott",
+     "path": "college_pre2008_or_unlinked",
+     "declared_only": 0,
+     "war5": -0.3,
+     "why": "not in Torvik season 2021"
+    },
+    {
+     "pid": "P48e5247a2d",
+     "name": "Jeff Dowtin",
+     "path": "college_2008plus",
+     "declared_only": 0,
+     "war5": 0.9,
+     "why": "not in Torvik season 2021"
+    },
+    {
+     "pid": "P0d7f7c89fd",
+     "name": "Lindy Waters III",
+     "path": "college_2008plus",
+     "declared_only": 0,
+     "war5": 2.4,
+     "why": "not in Torvik season 2021"
+    },
+    {
+     "pid": "Ped12721a79",
+     "name": "Matt Ryan",
+     "path": "college_2008plus",
+     "declared_only": 0,
+     "war5": -0.3,
+     "why": "not in Torvik season 2021"
+    },
+    {
+     "pid": "Pd7c45f2e6c",
+     "name": "Luca Vildoza",
+     "path": "international",
+     "declared_only": 0,
+     "war5": 0.0,
+     "why": "not in Torvik season 2021"
+    },
+    {
+     "pid": "Pd4adc2c99d",
+     "name": "Ish Wainright",
+     "path": "college_pre2008_or_unlinked",
+     "declared_only": 0,
+     "war5": 1.5,
+     "why": "not in Torvik season 2021"
+    },
+    {
+     "pid": "P884d72cac4",
+     "name": "Jaime Echenique",
+     "path": "college_2008plus",
+     "declared_only": 0,
+     "war5": 0.0,
+     "why": "not in Torvik season 2021"
+    },
+    {
+     "pid": "P70fd4037fb",
+     "name": "Kevin Pangos",
+     "path": "international",
+     "declared_only": 0,
+     "war5": -0.3,
+     "why": "not in Torvik season 2021"
+    },
+    {
+     "pid": "P03ad9770c3",
+     "name": "Cameron McGriff",
+     "path": "college_2008plus",
+     "declared_only": 0,
+     "war5": 0.1,
+     "why": "not in Torvik season 2021"
+    },
+    {
+     "pid": "P457b866328",
+     "name": "Gabriel Lundberg",
+     "path": "international",
+     "declared_only": 0,
+     "war5": 0.1,
+     "why": "not in Torvik season 2021"
+    },
+    {
+     "pid": "Pcad1dc504f",
+     "name": "Keifer Sykes",
+     "path": "college_pre2008_or_unlinked",
+     "declared_only": 0,
+     "war5": -1.0,
+     "why": "not in Torvik season 2021"
+    },
+    {
+     "pid": "P1f0712d029",
+     "name": "Braxton Key",
+     "path": "college_2008plus",
+     "declared_only": 0,
+     "war5": 0.7,
+     "why": "not in Torvik season 2021"
+    },
+    {
+     "pid": "P36846c8c89",
+     "name": "Rob Edwards",
+     "path": "college_2008plus",
+     "declared_only": 0,
+     "war5": -0.0,
+     "why": "not in Torvik season 2021"
+    },
+    {
+     "pid": "Pfa7ab0de3c",
+     "name": "Malcolm Hill",
+     "path": "college_pre2008_or_unlinked",
+     "declared_only": 0,
+     "war5": 0.2,
+     "why": "not in Torvik season 2021"
+    },
+    {
+     "pid": "Pf0fd005549",
+     "name": "Cameron Thomas",
+     "path": "college_declared",
+     "declared_only": 1,
+     "war5": 0.0,
+     "why": "Torvik Fr, Min_per 85, GP 29"
+    },
+    {
+     "pid": "P281db24dd9",
+     "name": "Jaizec Lottie",
+     "path": "college_declared",
+     "declared_only": 1,
+     "war5": 0.0,
+     "why": "not in Torvik season 2021"
+    },
+    {
+     "pid": "P71a175d36d",
+     "name": "Makur Maker",
+     "path": "college_declared",
+     "declared_only": 1,
+     "war5": 0.0,
+     "why": "Torvik Fr, Min_per 18, GP 1"
+    },
+    {
+     "pid": "P727c27e864",
+     "name": "Sidney Wilson",
+     "path": "college_declared",
+     "declared_only": 1,
+     "war5": 0.0,
+     "why": "Torvik Jr, Min_per 47, GP 17"
+    }
+   ],
+   "n_seniors_rule": 655,
+   "n_seniors_returned_Y1": 409,
+   "n_seniors_namesake_dropped": 7,
+   "n_entrants": 217,
+   "n_intl22": 11,
+   "coverage_rebuilt": {
+    "col": 0.739,
+    "tc": 0.886
+   }
+  },
+  "2022": {
+   "n": 628,
+   "drafted": 52,
+   "undrafted": 576,
+   "sources": {
+    "senior": 468,
+    "early_entry": 83,
+    "early_entry+senior": 64,
+    "intl_22": 9,
+    "drafted_outside_rule": 3,
+    "early_entry+intl_22+senior": 1
+   },
+   "routes": {
+    "torvik_rebuild": 519,
+    "test_row": 87,
+    "euro_rebuild": 14,
+    "none": 8
+   },
+   "has_inputs": 620,
+   "reached_nba_no_outcome": 0,
+   "drafted_outside_rule": 3,
+   "existing_test_rows_dropped": [
+    {
+     "path": "college_2008plus",
+     "declared_only": 0,
+     "n": 3,
+     "with_war": 3
+    },
+    {
+     "path": "college_pre2008_or_unlinked",
+     "declared_only": 0,
+     "n": 4,
+     "with_war": 3
+    },
+    {
+     "path": "international",
+     "declared_only": 0,
+     "n": 3,
+     "with_war": 3
+    }
+   ],
+   "dropped_rows": [
+    {
+     "pid": "P2e38feab3a",
+     "name": "Chance Comanche",
+     "path": "college_pre2008_or_unlinked",
+     "declared_only": 0,
+     "war5": -0.1,
+     "why": "not in Torvik season 2022"
+    },
+    {
+     "pid": "P3698c87daf",
+     "name": "Kevon Harris",
+     "path": "college_2008plus",
+     "declared_only": 0,
+     "war5": -0.1,
+     "why": "not in Torvik season 2022"
+    },
+    {
+     "pid": "Pc064a30c43",
+     "name": "Dru Smith",
+     "path": "college_2008plus",
+     "declared_only": 0,
+     "war5": 4.2,
+     "why": "not in Torvik season 2022"
+    },
+    {
+     "pid": "Paf2b091294",
+     "name": "Michael Foster Jr.",
+     "path": "college_pre2008_or_unlinked",
+     "declared_only": 0,
+     "war5": 0.0,
+     "why": "not in Torvik season 2022"
+    },
+    {
+     "pid": "P0234a21988",
+     "name": "Dominick Barlow",
+     "path": "college_pre2008_or_unlinked",
+     "declared_only": 0,
+     "war5": 1.2,
+     "why": "not in Torvik season 2022"
+    },
+    {
+     "pid": "P47d96f257b",
+     "name": "Jack White",
+     "path": "college_2008plus",
+     "declared_only": 0,
+     "war5": -0.2,
+     "why": "not in Torvik season 2022"
+    },
+    {
+     "pid": "Pc44acb797a",
+     "name": "Chima Moneke",
+     "path": "international",
+     "declared_only": 0,
+     "war5": -0.1,
+     "why": "not in Torvik season 2022"
+    },
+    {
+     "pid": "P719dac14cb",
+     "name": "Simone Fontecchio",
+     "path": "international",
+     "declared_only": 0,
+     "war5": 2.9,
+     "why": "not in Torvik season 2022"
+    },
+    {
+     "pid": "P39f2672d8d",
+     "name": "Nate Williams",
+     "path": "college_pre2008_or_unlinked",
+     "declared_only": 0,
+     "war5": -0.5,
+     "why": "not in Torvik season 2022"
+    },
+    {
+     "pid": "P7c732b276f",
+     "name": "Xavier Cooks",
+     "path": "international",
+     "declared_only": 0,
+     "war5": -0.1,
+     "why": "not in Torvik season 2022"
+    }
+   ],
+   "n_seniors_rule": 881,
+   "n_seniors_returned_Y1": 327,
+   "n_seniors_namesake_dropped": 14,
+   "n_entrants": 149,
+   "n_intl22": 12,
+   "coverage_rebuilt": {
+    "col": 0.585,
+    "tc": 0.864
+   }
+  },
+  "2023": {
+   "n": 666,
+   "drafted": 56,
+   "undrafted": 610,
+   "sources": {
+    "senior": 560,
+    "early_entry": 62,
+    "early_entry+senior": 30,
+    "intl_22": 9,
+    "drafted_outside_rule": 5
+   },
+   "routes": {
+    "torvik_rebuild": 565,
+    "test_row": 84,
+    "euro_rebuild": 9,
+    "none": 8
+   },
+   "has_inputs": 658,
+   "reached_nba_no_outcome": 1,
+   "drafted_outside_rule": 5,
+   "existing_test_rows_dropped": [
+    {
+     "path": "college_2008plus",
+     "declared_only": 0,
+     "n": 8,
+     "with_war": 8
+    },
+    {
+     "path": "college_pre2008_or_unlinked",
+     "declared_only": 0,
+     "n": 2,
+     "with_war": 2
+    },
+    {
+     "path": "international",
+     "declared_only": 0,
+     "n": 7,
+     "with_war": 7
+    }
+   ],
+   "dropped_rows": [
+    {
+     "pid": "P9305edebac",
+     "name": "Kaiser Gates",
+     "path": "college_pre2008_or_unlinked",
+     "declared_only": 0,
+     "war5": -0.1,
+     "why": "not in Torvik season 2023"
+    },
+    {
+     "pid": "Pae8a88e0e7",
+     "name": "Jordan Ford",
+     "path": "college_2008plus",
+     "declared_only": 0,
+     "war5": 0.1,
+     "why": "not in Torvik season 2023"
+    },
+    {
+     "pid": "Pc51154c628",
+     "name": "Matt Hurt",
+     "path": "college_pre2008_or_unlinked",
+     "declared_only": 0,
+     "war5": -0.1,
+     "why": "not in Torvik season 2023"
+    },
+    {
+     "pid": "P8bf21cf88b",
+     "name": "Malcolm Cazalon",
+     "path": "international",
+     "declared_only": 0,
+     "war5": -0.0,
+     "why": "not in Torvik season 2023"
+    },
+    {
+     "pid": "P2890042448",
+     "name": "D.J. Carton",
+     "path": "college_2008plus",
+     "declared_only": 0,
+     "war5": -0.2,
+     "why": "not in Torvik season 2023"
+    },
+    {
+     "pid": "P57690f53ec",
+     "name": "Jalen Crutcher",
+     "path": "college_2008plus",
+     "declared_only": 0,
+     "war5": -0.0,
+     "why": "not in Torvik season 2023"
+    },
+    {
+     "pid": "P5dad28f6cf",
+     "name": "Ibou Badji",
+     "path": "international",
+     "declared_only": 0,
+     "war5": -0.4,
+     "why": "not in Torvik season 2023"
+    },
+    {
+     "pid": "P4e9a2418a1",
+     "name": "Henri Drell",
+     "path": "international",
+     "declared_only": 0,
+     "war5": -0.0,
+     "why": "not in Torvik season 2023"
+    },
+    {
+     "pid": "P441a89e79f",
+     "name": "Collin Gillespie",
+     "path": "college_2008plus",
+     "declared_only": 0,
+     "war5": 7.5,
+     "why": "not in Torvik season 2023"
+    },
+    {
+     "pid": "P9d84442310",
+     "name": "Javon Freeman-Liberty",
+     "path": "college_2008plus",
+     "declared_only": 0,
+     "war5": -0.6,
+     "why": "not in Torvik season 2023"
+    },
+    {
+     "pid": "P8a6f0b4919",
+     "name": "Jermaine Samuels Jr.",
+     "path": "college_2008plus",
+     "declared_only": 0,
+     "war5": 0.1,
+     "why": "not in Torvik season 2023"
+    },
+    {
+     "pid": "P9052f13021",
+     "name": "Jules Bernard",
+     "path": "college_2008plus",
+     "declared_only": 0,
+     "war5": -0.0,
+     "why": "not in Torvik season 2023"
+    },
+    {
+     "pid": "P850a7a2631",
+     "name": "Dmytro Skapintsev",
+     "path": "international",
+     "declared_only": 0,
+     "war5": -0.0,
+     "why": "not in Torvik season 2023"
+    },
+    {
+     "pid": "Pb3227aeb5d",
+     "name": "Taze Moore",
+     "path": "college_2008plus",
+     "declared_only": 0,
+     "war5": -0.0,
+     "why": "not in Torvik season 2023"
+    },
+    {
+     "pid": "P4e1f6ff7ed",
+     "name": "Duop Reath",
+     "path": "international",
+     "declared_only": 0,
+     "war5": 1.6,
+     "why": "not in Torvik season 2023"
+    },
+    {
+     "pid": "P52f2ddbdea",
+     "name": "Onuralp Bitim",
+     "path": "international",
+     "declared_only": 0,
+     "war5": -0.6,
+     "why": "not in Torvik season 2023"
+    },
+    {
+     "pid": "P7f722372b8",
+     "name": "Maozinha Pereira",
+     "path": "international",
+     "declared_only": 0,
+     "war5": 0.1,
+     "why": "not in Torvik season 2023"
+    }
+   ],
+   "n_seniors_rule": 933,
+   "n_seniors_returned_Y1": 328,
+   "n_seniors_namesake_dropped": 7,
+   "n_entrants": 92,
+   "n_intl22": 10,
+   "coverage_rebuilt": {
+    "col": 0.586,
+    "tc": 0.868
+   }
+  },
+  "2024": {
+   "n": 664,
+   "drafted": 55,
+   "undrafted": 609,
+   "sources": {
+    "senior": 574,
+    "early_entry": 58,
+    "early_entry+senior": 19,
+    "intl_22": 9,
+    "drafted_outside_rule": 4
+   },
+   "routes": {
+    "torvik_rebuild": 542,
+    "test_row": 95,
+    "none": 15,
+    "euro_rebuild": 12
+   },
+   "has_inputs": 649,
+   "reached_nba_no_outcome": 1,
+   "drafted_outside_rule": 4,
+   "existing_test_rows_dropped": [
+    {
+     "path": "college_2008plus",
+     "declared_only": 0,
+     "n": 9,
+     "with_war": 9
+    },
+    {
+     "path": "college_declared",
+     "declared_only": 1,
+     "n": 2,
+     "with_war": 0
+    },
+    {
+     "path": "college_pre2008_or_unlinked",
+     "declared_only": 0,
+     "n": 4,
+     "with_war": 4
+    },
+    {
+     "path": "international",
+     "declared_only": 0,
+     "n": 4,
+     "with_war": 4
+    }
+   ],
+   "dropped_rows": [
+    {
+     "pid": "Pf1dc83702a",
+     "name": "Jack McVeigh",
+     "path": "international",
+     "declared_only": 0,
+     "war5": -0.1,
+     "why": "not in Torvik season 2024"
+    },
+    {
+     "pid": "P44f988dfdd",
+     "name": "Kylor Kelley",
+     "path": "college_pre2008_or_unlinked",
+     "declared_only": 0,
+     "war5": -0.2,
+     "why": "not in Torvik season 2024"
+    },
+    {
+     "pid": "Pebbeab0c5c",
+     "name": "Marcus Bagley",
+     "path": "college_2008plus",
+     "declared_only": 0,
+     "war5": -0.3,
+     "why": "not in Torvik season 2024"
+    },
+    {
+     "pid": "Pf8707c5a5f",
+     "name": "Tyson Etienne",
+     "path": "college_2008plus",
+     "declared_only": 0,
+     "war5": -0.6,
+     "why": "not in Torvik season 2024"
+    },
+    {
+     "pid": "Pedbe6303e0",
+     "name": "Phillip Wheeler",
+     "path": "college_pre2008_or_unlinked",
+     "declared_only": 0,
+     "war5": -0.3,
+     "why": "not in Torvik season 2024"
+    },
+    {
+     "pid": "P67a293c7ae",
+     "name": "Keaton Wallace",
+     "path": "college_2008plus",
+     "declared_only": 0,
+     "war5": 0.2,
+     "why": "not in Torvik season 2024"
+    },
+    {
+     "pid": "Pc2cfb81ac1",
+     "name": "Jaylen Sims",
+     "path": "college_2008plus",
+     "declared_only": 0,
+     "war5": -0.1,
+     "why": "not in Torvik season 2024"
+    },
+    {
+     "pid": "Peb437378ff",
+     "name": "Jazian Gortman",
+     "path": "college_pre2008_or_unlinked",
+     "declared_only": 0,
+     "war5": -0.1,
+     "why": "not in Torvik season 2024"
+    },
+    {
+     "pid": "Pe64515ec9d",
+     "name": "Jaylen Martin",
+     "path": "college_pre2008_or_unlinked",
+     "declared_only": 0,
+     "war5": -0.5,
+     "why": "not in Torvik season 2024"
+    },
+    {
+     "pid": "P79c8ced5ce",
+     "name": "Liam Robbins",
+     "path": "college_2008plus",
+     "declared_only": 0,
+     "war5": -0.2,
+     "why": "not in Torvik season 2024"
+    },
+    {
+     "pid": "Pca5928b452",
+     "name": "Damion Baugh",
+     "path": "college_2008plus",
+     "declared_only": 0,
+     "war5": -0.9,
+     "why": "not in Torvik season 2024"
+    },
+    {
+     "pid": "P92095a9676",
+     "name": "Miles Norris",
+     "path": "college_2008plus",
+     "declared_only": 0,
+     "war5": 0.0,
+     "why": "not in Torvik season 2024"
+    },
+    {
+     "pid": "Pbe0b54a1e9",
+     "name": "Elijah Harkless",
+     "path": "college_2008plus",
+     "declared_only": 0,
+     "war5": -1.0,
+     "why": "not in Torvik season 2024"
+    },
+    {
+     "pid": "P8b23f27bc8",
+     "name": "Alex Reese",
+     "path": "college_2008plus",
+     "declared_only": 0,
+     "war5": 0.1,
+     "why": "not in Torvik season 2024"
+    },
+    {
+     "pid": "Pc19957985f",
+     "name": "Jackson Rowe",
+     "path": "international",
+     "declared_only": 0,
+     "war5": 0.1,
+     "why": "not in Torvik season 2024"
+    },
+    {
+     "pid": "P31a95da41b",
+     "name": "Cui Cui",
+     "path": "international",
+     "declared_only": 0,
+     "war5": -0.1,
+     "why": "not in Torvik season 2024"
+    },
+    {
+     "pid": "P7f11916058",
+     "name": "Yuki Kawamura",
+     "path": "international",
+     "declared_only": 0,
+     "war5": -0.1,
+     "why": "not in Torvik season 2024"
+    },
+    {
+     "pid": "Paed8dc8f7e",
+     "name": "JZ Zaher",
+     "path": "college_declared",
+     "declared_only": 1,
+     "war5": 0.0,
+     "why": "Torvik So, Min_per 0, GP 5"
+    },
+    {
+     "pid": "Pf372901c0b",
+     "name": "Zacharie Perrin",
+     "path": "college_declared",
+     "declared_only": 1,
+     "war5": 0.0,
+     "why": "not in Torvik season 2024"
+    }
+   ],
+   "n_seniors_rule": 916,
+   "n_seniors_returned_Y1": 296,
+   "n_seniors_namesake_dropped": 11,
+   "n_entrants": 77,
+   "n_intl22": 10,
+   "coverage_rebuilt": {
+    "col": 0.585,
+    "tc": 0.863
+   }
+  },
+  "2025": {
+   "n": 836,
+   "drafted": 57,
+   "undrafted": 779,
+   "sources": {
+    "senior": 776,
+    "early_entry": 38,
+    "intl_22": 10,
+    "early_entry+senior": 8,
+    "drafted_outside_rule": 4
+   },
+   "routes": {
+    "torvik_rebuild": 726,
+    "test_row": 90,
+    "euro_rebuild": 11,
+    "none": 9
+   },
+   "has_inputs": 827,
+   "reached_nba_no_outcome": 4,
+   "drafted_outside_rule": 4,
+   "existing_test_rows_dropped": [
+    {
+     "path": "college_2008plus",
+     "declared_only": 0,
+     "n": 11,
+     "with_war": 11
+    },
+    {
+     "path": "college_pre2008_or_unlinked",
+     "declared_only": 0,
+     "n": 2,
+     "with_war": 2
+    },
+    {
+     "path": "international",
+     "declared_only": 0,
+     "n": 3,
+     "with_war": 3
+    }
+   ],
+   "dropped_rows": [
+    {
+     "pid": "P12fddfeea1",
+     "name": "Nigel Hayes-Davis",
+     "path": "college_pre2008_or_unlinked",
+     "declared_only": 0,
+     "war5": -0.4,
+     "why": "not in Torvik season 2025"
+    },
+    {
+     "pid": "P9436ca936e",
+     "name": "Ethan Thompson",
+     "path": "international",
+     "declared_only": 0,
+     "war5": -0.8,
+     "why": "not in Torvik season 2025"
+    },
+    {
+     "pid": "P521d05ff22",
+     "name": "Alex Antetokounmpo",
+     "path": "international",
+     "declared_only": 0,
+     "war5": 0.1,
+     "why": "not in Torvik season 2025"
+    },
+    {
+     "pid": "Pe05466ea0a",
+     "name": "Tyler Burton",
+     "path": "college_2008plus",
+     "declared_only": 0,
+     "war5": -0.5,
+     "why": "not in Torvik season 2025"
+    },
+    {
+     "pid": "P7271485ede",
+     "name": "Lucas Williamson",
+     "path": "college_2008plus",
+     "declared_only": 0,
+     "war5": -0.7,
+     "why": "not in Torvik season 2025"
+    },
+    {
+     "pid": "Pbb5fdc38a3",
+     "name": "Javonte Cooke",
+     "path": "college_pre2008_or_unlinked",
+     "declared_only": 0,
+     "war5": -0.4,
+     "why": "not in Torvik season 2025"
+    },
+    {
+     "pid": "Pb3ce9ad2a9",
+     "name": "Alex Morales",
+     "path": "college_2008plus",
+     "declared_only": 0,
+     "war5": -0.1,
+     "why": "not in Torvik season 2025"
+    },
+    {
+     "pid": "Pe7bcbcc1c2",
+     "name": "Malachi Smith",
+     "path": "college_2008plus",
+     "declared_only": 0,
+     "war5": 0.2,
+     "why": "Torvik Sr, Min_per 67, GP 32, played D-I in 2026"
+    },
+    {
+     "pid": "P64fe10bf34",
+     "name": "Myron Gardner",
+     "path": "college_2008plus",
+     "declared_only": 0,
+     "war5": 0.8,
+     "why": "not in Torvik season 2025"
+    },
+    {
+     "pid": "P04c242f081",
+     "name": "David Jones Garcia",
+     "path": "international",
+     "declared_only": 0,
+     "war5": 0.3,
+     "why": "not in Torvik season 2025"
+    },
+    {
+     "pid": "P1945d13d34",
+     "name": "Blake Hinson",
+     "path": "college_2008plus",
+     "declared_only": 0,
+     "war5": 0.2,
+     "why": "not in Torvik season 2025"
+    },
+    {
+     "pid": "Pedf3dd90d4",
+     "name": "Tristan Enaruna",
+     "path": "college_2008plus",
+     "declared_only": 0,
+     "war5": 0.1,
+     "why": "not in Torvik season 2025"
+    },
+    {
+     "pid": "Pab4be0edd9",
+     "name": "Darius Brown II",
+     "path": "college_2008plus",
+     "declared_only": 0,
+     "war5": -0.0,
+     "why": "not in Torvik season 2025"
+    },
+    {
+     "pid": "P80ff3b7db7",
+     "name": "Josh Oduro",
+     "path": "college_2008plus",
+     "declared_only": 0,
+     "war5": -0.2,
+     "why": "not in Torvik season 2025"
+    },
+    {
+     "pid": "P5bddeea434",
+     "name": "Cormac Ryan",
+     "path": "college_2008plus",
+     "declared_only": 0,
+     "war5": 0.2,
+     "why": "not in Torvik season 2025"
+    },
+    {
+     "pid": "P072482f331",
+     "name": "Jayson Kent",
+     "path": "college_2008plus",
+     "declared_only": 0,
+     "war5": 0.1,
+     "why": "Torvik Sr, Min_per 33, GP 27"
+    }
+   ],
+   "n_seniors_rule": 1035,
+   "n_seniors_returned_Y1": 231,
+   "n_seniors_namesake_dropped": 8,
+   "n_entrants": 46,
+   "n_intl22": 11,
+   "coverage_rebuilt": {
+    "col": 0.57,
+    "tc": 0.872
+   }
+  }
+ }
+}

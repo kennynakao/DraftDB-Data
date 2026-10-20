@@ -1,0 +1,191 @@
+{
+ "https://pr.nba.com/early-entry-candidates-2019-draft": {
+  "file": "59b96f100d74.html",
+  "captured": "2026-10-20T22:21:55+00:00",
+  "bytes": 154482,
+  "sha256": "d63ca2fd341460462fb5ce6fa0bc31ea1ff05a6562973b42d6e041701c8fd081",
+  "http": 200
+ },
+ "https://www.nba.com/news/eighty-nine-early-entry-candidates-withdraw-draft": {
+  "file": "651a3ac629f5.html",
+  "captured": "2026-10-20T22:22:00+00:00",
+  "bytes": 348733,
+  "sha256": "abed2ba42e41e7948cb291fc80c7b3913c5a472f63d51769ecacb34c5e669a0f",
+  "http": 200
+ },
+ "https://www.nba.com/news/47-international-early-entry-candidates-withdraw-draft-official-release": {
+  "file": "e27c20c433aa.html",
+  "captured": "2026-10-20T22:22:04+00:00",
+  "bytes": 387008,
+  "sha256": "2516d93dea986a11a87310801ebb30dd801a00fe178eabcee49cdc92bf0e0bce",
+  "http": 200
+ },
+ "https://www.nba.com/news/early-entry-candidates-announced-2020-nba-draft-official-release": {
+  "file": "b0005a89c62b.html",
+  "captured": "2026-10-20T22:22:07+00:00",
+  "bytes": 387609,
+  "sha256": "f83e1443ba13637a3dca375d7182f846493450659b50d0f91350e1bd796d6e9b",
+  "http": 200
+ },
+ "https://pr.nba.com/2020-early-entry-update": {
+  "file": "f0841182742d.html",
+  "captured": "2026-10-20T22:22:10+00:00",
+  "bytes": 138829,
+  "sha256": "750f25d5a50de4e97b1b88b4ff8a85744c14eade05c1b960def340ae49a81c65",
+  "http": 200
+ },
+ "https://www.nba.com/news/23-early-entry-candidates-withdraw-from-from-nba-draft-2020-presented-by-state-farm": {
+  "file": "e9254e27989b.html",
+  "captured": "2026-10-20T22:22:14+00:00",
+  "bytes": 364437,
+  "sha256": "5525d10e1004af13dcdbcc7a4370017a083cc016165d365afcd266c11b9042d6",
+  "http": 200
+ },
+ "https://www.nba.com/news/nba-announces-early-entry-candidates-for-nba-draft-2021": {
+  "file": "d09bf75a66e0.html",
+  "captured": "2026-10-20T22:22:18+00:00",
+  "bytes": 406730,
+  "sha256": "b8a0c8aefd54dab72606831b5acf106ca95950510131ba21c81cc2fa5cc684eb",
+  "http": 200
+ },
+ "https://www.nba.com/news/early-entry-candidates-withdraw-draft-2021": {
+  "file": "50ccf1e96eaf.html",
+  "captured": "2026-10-20T22:22:22+00:00",
+  "bytes": 328443,
+  "sha256": "1bd99e5c342752e54b5ff776df6ebf0a215c86d31291118504bdd41fa859c5af",
+  "http": 200
+ },
+ "https://www.nba.com/news/nba-announces-51-early-entry-candidates-withdraw-from-2021-draft": {
+  "file": "3dc06d822980.html",
+  "captured": "2026-10-20T22:22:26+00:00",
+  "bytes": 317696,
+  "sha256": "6fd05fa6fd6a3c93b92d85240ea4510f50a467afd33f746759aeb3af7e6e9a23",
+  "http": 200
+ },
+ "https://www.nba.com/news/nba-announces-early-entry-candidates-for-nba-draft-2022": {
+  "file": "091360ea911d.html",
+  "captured": "2026-10-20T22:22:30+00:00",
+  "bytes": 612171,
+  "sha256": "9283e6d60c7f780103b160e4d7e140aa53151db8a1f7b2f5083a0690b676fcbe",
+  "http": 200
+ },
+ "https://www.nba.com/news/112-early-entry-candidates-withdraw-from-nba-draft-2022": {
+  "file": "6a2abcd6052a.html",
+  "captured": "2026-10-20T22:22:34+00:00",
+  "bytes": 426336,
+  "sha256": "0522b3fc5de6fcad51b8a4462be4c025f01cf5b2d81d645778fe028b79e55d82",
+  "http": 200
+ },
+ "https://www.nba.com/news/24-early-entry-candidates-withdraw-from-nba-draft-2022": {
+  "file": "d97615267f61.html",
+  "captured": "2026-10-20T22:22:38+00:00",
+  "bytes": 497478,
+  "sha256": "3085ad1414d873f8986392035b3777820dbaac29d992dd6633432efaebc14f4b",
+  "http": 200
+ },
+ "https://www.nba.com/news/nba-draft-2023-early-entry-candidates": {
+  "file": "36c8edfac414.html",
+  "captured": "2026-10-20T22:22:42+00:00",
+  "bytes": 817029,
+  "sha256": "49baa252ba1ea1cc6a5ceffa4aa9a70e18c3f3ecc14daa406c84eea8bc4995cf",
+  "http": 200
+ },
+ "https://www.nba.com/news/108-early-entry-candidates-withdraw-from-nba-draft-2023": {
+  "file": "f35fb8f1d419.html",
+  "captured": "2026-10-20T22:22:46+00:00",
+  "bytes": 526124,
+  "sha256": "8ed02346a7b6ab07adaa8fda7549c769d57ffd6e28ff9073494e911a18d50213",
+  "http": 200
+ },
+ "https://www.nba.com/news/44-early-entry-candidates-withdraw-from-nba-draft-2023": {
+  "file": "d0c450dd5aac.html",
+  "captured": "2026-10-20T22:22:50+00:00",
+  "bytes": 516709,
+  "sha256": "ae951d08df33cebeddddf5aff20d9eed3cf9b0819291687960a8190e814fe434",
+  "http": 200
+ },
+ "https://hoopsrumors.com/2023/06/official-early-entrants-list-for-2023-nba-draft.html": {
+  "file": "4cf8086147e5.html",
+  "captured": "2026-10-20T22:22:54+00:00",
+  "bytes": 89814,
+  "sha256": "4c35fd2c95042506bd3f1e8a729e4276844de727ecc231196c3f64691ee0192d",
+  "http": 200
+ },
+ "https://www.nba.com/news/nba-draft-2024-early-entry-candidates": {
+  "file": "ce56089a8178.html",
+  "captured": "2026-10-20T22:22:57+00:00",
+  "bytes": 502648,
+  "sha256": "8c3be2b8cb4a0784e2a545298e64af1b37c552d8ab8f8ea47ce46e94d738c494",
+  "http": 200
+ },
+ "https://www.nba.com/news/93-candidates-withdraw-2024-nba-draft": {
+  "file": "0a445844760e.html",
+  "captured": "2026-10-20T22:23:01+00:00",
+  "bytes": 317964,
+  "sha256": "837fb15ef684e900f8a8ff32d20a0d937305e53029a1f7c275d83d61d25f6fe0",
+  "http": 200
+ },
+ "https://www.nba.com/news/31-early-entry-candidates-withdraw-2024-nba-draft": {
+  "file": "56ec0d7083a9.html",
+  "captured": "2026-10-20T22:23:04+00:00",
+  "bytes": 417797,
+  "sha256": "f940bf0addc59b06fbf752c38a0d8be4c8b4794a3c910cc2da9f75f041b85fcb",
+  "http": 200
+ },
+ "https://www.nba.com/news/2025-nba-draft-early-entry-candidates": {
+  "file": "1970879f6151.html",
+  "captured": "2026-10-20T22:23:08+00:00",
+  "bytes": 419899,
+  "sha256": "0c3f120a6a17f50436a68966e6a5583d9e89d22289209d49e6a11fc2d7930b15",
+  "http": 200
+ },
+ "https://www.nba.com/news/50-early-entry-candidates-withdraw-from-nba-draft-2025": {
+  "file": "832696902b59.html",
+  "captured": "2026-10-20T22:23:12+00:00",
+  "bytes": 335239,
+  "sha256": "189a896172a0d009df65001fffc8033c69ccf4dbef3e4e32e5fa792109095924",
+  "http": 200
+ },
+ "https://www.nba.com/news/13-additional-early-entry-candidates-withdraw-2025-draft": {
+  "file": "b636e554fa2d.html",
+  "captured": "2026-10-20T22:23:16+00:00",
+  "bytes": 375359,
+  "sha256": "525f1c74702f85a2e32f55d99c4a2967cec57968480207e42abdeb0d135ee247",
+  "http": 200
+ },
+ "https://pr.nba.com/twenty-three-early-entry-candidates-withdraw-from-nba-draft-2020-presented-by-state-farm": {
+  "file": "fae5ad411dc0.html",
+  "captured": "2026-10-20T22:26:24+00:00",
+  "bytes": 133002,
+  "sha256": "c72ece5677cbd6123ccc98c537e6b3b251d677c7cd15fd810ab6ab2927ae27ab",
+  "http": 200
+ },
+ "https://hoopsrumors.com/2021/07/official-early-entrants-list-for-2021-nba-draft.html": {
+  "file": "91d0c1998c14.html",
+  "captured": "2026-10-20T22:26:28+00:00",
+  "bytes": 120020,
+  "sha256": "61e1a9ce1865ed2000176a51fbe190a5eaa026dd2e3875bd35d59ef10ab75e09",
+  "http": 200
+ },
+ "https://hoopsrumors.com/2022/06/official-early-entrants-list-for-2022-nba-draft.html": {
+  "file": "93154777bbeb.html",
+  "captured": "2026-10-20T22:26:33+00:00",
+  "bytes": 104138,
+  "sha256": "8797a7bbd2df583db97bcd11d8b0cc4265740731780e7cf7f7719c351f02f392",
+  "http": 200
+ },
+ "https://hoopsrumors.com/2024/06/official-early-entrants-list-for-2024-nba-draft.html": {
+  "file": "99ecf0992bbf.html",
+  "captured": "2026-10-20T22:26:36+00:00",
+  "bytes": 85844,
+  "sha256": "b7c9f86d5ef4adfc0244815b6da1fdfb4eab7ae5ec62715d928fdf89e2fa6a9b",
+  "http": 200
+ },
+ "https://hoopsrumors.com/2025/06/official-early-entrants-list-for-2025-nba-draft.html": {
+  "file": "ab1a6b065f81.html",
+  "captured": "2026-10-20T22:26:40+00:00",
+  "bytes": 84467,
+  "sha256": "192615c6504b353c3525860fda157f8cd7c8776734e9c2d427309bc2789a5d49",
+  "http": 200
+ }
+}
