@@ -1,0 +1,99 @@
+== rows in features.csv: 166 of 305 audited pathway rows
+
+== coverage by band x path (rows / with pw / underfilled rows / underfilled with pw)
+                                       rows  pw  underfilled  underfilled_with_pw
+band      path                                                                   
+2007-2018 college_pre2008_or_unlinked    46  16           35                   10
+          international                 122  83           35                   18
+2019-2025 college_pre2008_or_unlinked    56  19           49                   14
+          international                  81  48           34                   16
+
+== coverage by draft year
+            rows  pw  underfilled  underfilled_with_pw  pct
+draft_year                                                 
+2007           9   4            4                    1   44
+2008          11   5            3                    0   45
+2009           9   6            2                    2   67
+2010           8   5            4                    2   62
+2011          13   7            5                    1   54
+2012          13  10            5                    3   77
+2013          18  11            6                    2   61
+2014          17  11            6                    3   65
+2015          14  10            6                    3   71
+2016          18  11            8                    4   61
+2017          23  11           12                    4   48
+2018          15   8            9                    3   53
+2019          20  12           12                    5   60
+2020          18  12            6                    2   67
+2021          24  11           17                    5   46
+2022          18   4           11                    0   22
+2023          20  11           17                   10   55
+2024          22   9           15                    6   41
+2025          15   8            5                    2   53
+
+== by league code x band (rows in features.csv)
+band                2007-2018  2019-2025
+league                                  
+ACB                        14          1
+EuroCup                    14         13
+EuroLeague                 44         20
+G League                    0          9
+LNB Pro A                   5          1
+NBL Australia               1          9
+OTE                         0          3
+other                       7          4
+other top European         14          7
+
+== by source x band
+band                                         2007-2018  2019-2025
+src                                                              
+1 wiki pre-draft revision                            8         12
+2 EuroLeague/EuroCup export                         37         27
+3 G League json                                      0          4
+4 current-article table (seasons<=draft yr)         54         17
+5 Wayback official page                              0          7
+
+== column fill counts by source
+pw_source          1   2  3   4  5
+pw_gp             20  64  4  71  2
+pw_mpg            20  64  4  70  7
+pw_pts36          20  64  4  70  7
+pw_reb36          20  64  4  70  7
+pw_ast36          20  64  4  69  7
+pw_stl36          20  64  4  70  7
+pw_blk36          20  64  4  65  7
+pw_tov36           0  64  4   0  7
+pw_ts_pct          0  64  4   0  3
+pw_efg_pct         0  64  4   0  3
+pw_fg3ar           0  64  4   0  3
+pw_ftar            0  64  4   0  3
+pw_ft_pct         18  64  4  61  7
+pw_fg3_pct        18  55  4  59  3
+pw_usg_proxy       0  64  4   0  3
+pw_box_impact      0  64  4   0  3
+pw_age_at_season  20  60  4  59  7
+pw_league_code    20  64  4  71  7
+pw_box_lite       20  64  4  64  7
+pw_season_gap     20  64  4  71  7
+
+== season gap (draft year - season end)
+pw_season_gap
+0    140
+1     14
+2      9
+3      3
+
+== TEST-YEAR (2019-2025) players: newly filled = pw columns present where the matching intl_ column is empty (17 mapped pairs)
+test-year rows with pw: 67; mean newly_filled 1.2; rows with >=1 new: 39; rows where intl_impact was empty and pw_box_impact now present: 8; rows where intl_usg_pct was empty and pw_usg_proxy present: 6
+rows where intl_impact is empty and a pw box composite exists (pw_box_impact or the lite version): 21
+        pid        player_name  draft_year  n_intl_filled  pw_filled  newly_filled     comp_label season_label  pw_source
+P04b95b58e0    Marko Simonovic        2020             13         17            14        EuroCup      2019-20          2
+P12fddfeea1  Nigel Hayes-Davis        2025             24         17             5     EuroLeague      2024-25          2
+P34557a899a       Stanton Kidd        2019             24         17             5     EuroLeague      2018-19          2
+P90844406b5       Nicolo Melli        2019             26         17             5     EuroLeague      2018-19          2
+P842bafbfda Aleksej Pokusevski        2020             17          8             5     EuroLeague      2019-20          1
+P9180c4596b     Ausar Thompson        2023             23         17             3 Overtime Elite      2022-23          5
+P1999b4880f      Amen Thompson        2023             23         16             3 Overtime Elite      2022-23          5
+P4e1f6ff7ed         Duop Reath        2023             24         17             2     EuroLeague      2020-21          2
+P4110110f37       Usman Garuba        2021             26         17             2     EuroLeague      2020-21          2
+P6ddd309f80      Hugo González        2025             27         17             2     EuroLeague      2024-25          2

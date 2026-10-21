@@ -11,3 +11,5 @@ novel/**/*.parquet
 novel/**/*.gz
 novel/**/*.zip
 novel/draftexpress/measurements_all.csv
+novel/prep_games/vendor/
+novel/prep_games/ocr/

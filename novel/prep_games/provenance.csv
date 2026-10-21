@@ -1,0 +1,45 @@
+game,year,status,fmt,rows,rows_pts_ok,block_sizes,team_pts,source
+mcd,2006,ok,wiki,24.0,24.0,12/12,94/112,en.wikipedia.org oldid=1366894093 (2026-07-30T20:05:30Z)
+mcd,2007,ok,wiki,25.0,24.0,12/13,114/126,en.wikipedia.org oldid=1376762048 (2026-09-26T02:41:11Z)
+mcd,2008,ok,wiki,24.0,24.0,12/12,107/102,en.wikipedia.org oldid=1369204920 (2026-08-13T13:50:07Z)
+mcd,2009,ok,wiki,23.0,23.0,11/12,110/113,en.wikipedia.org oldid=1369546550 (2026-08-15T16:57:24Z)
+mcd,2010,ok,wiki,24.0,24.0,12/12,107/112,en.wikipedia.org oldid=1346492601 (2026-04-01T03:30:04Z)
+mcd,2011,ok,official_A,24.0,24.0,12/12,111/96,web.archive.org/web/20110405070346/http://www.mcdonaldsallamerican.com:80/2011/mcdb.htm
+mcd,2012,ok,ocr_shooting,11.0,11.0,11,106,web.archive.org/web/20120417021031/http://mcdonaldsallamerican.com:80/2012BoysGameResults.pdf (OCR)
+mcd,2013,ok,official_A,25.0,25.0,13/12,99/110,web.archive.org/web/20130407023601/http://www.mcdepk.com:80/2013allamericangames/media/BoysGameStats.html
+mcd,2014,ok,official_A,24.0,24.0,12/12,102/105,web.archive.org/web/20140407071914/http://epkzone.com/2014allamericangames/media/2014AllAmericanGamesBoxScores.pdf
+mcd,2015,ok,official_A,23.0,23.0,11/12,111/91,web.archive.org/web/20150402125613/http://www.mcdonaldsallamerican.com/content/aag/en/MediaCenter/2015-game-materials/2015-Results-Boys/_jcr_content/featuredcontent/everything/file.res/2015%20McDonalds%20Boys%20Final%20Box.pdf
+mcd,2016,ok,official_A,24.0,24.0,12/12,107/114,web.archive.org/web/20160428225357/http://www.mcdonaldsallamerican.com:80/content/aag/en/MediaCenter/2016/2016-game-materials/2016-Boy-Results/_jcr_content/genericpagecontent/everything/file.res/2016%20McDonalds%20Boys%20Book.pdf
+mcd,2017,ok,official_A,24.0,24.0,12/12,107/109,web.archive.org/web/20180404145445/http://www.mcdonaldsallamerican.com:80/content/aag/en/MediaCenter/2017/2017-game-materials/BoysResults/_jcr_content/featuredcontent/everything/file.res/2017%20McDonalds%20Boys%20Box.pdf
+mcd,2018,ok,official_A,21.0,21.0,10/11,131/128,web.archive.org/web/20181003221127/https://www.mcdonaldsallamerican.com/content/dam/aag/AABOYS.pdf
+mcd,2019,ok,official_A,23.0,23.0,11/12,115/100,web.archive.org/web/20190405230440/https://www.mcdonaldsallamerican.com/content/dam/aag/2019-boys-game-final-score.pdf
+mcd,2022,ok,official_D,20.0,20.0,10/10,105/81,web.archive.org/web/20220523074107/https://www.mcdonaldsallamerican.com/content/dam/sites/allamerican/Content/Sponsor/MediaCenter/22_MCDAAG_Boys_Final.pdf
+mcd,2023,ok,official_D,24.0,24.0,12/12,109/106,web.archive.org/web/20230329180919/https://www.mcdonaldsallamerican.com/content/dam/sites/allamerican/Content/HomeContent/Box%20Score%20East%20at%20West%2029%20March.pdf
+mcd,2024,ok,ocr_shooting,22.0,22.0,10/12,84/86,web.archive.org/web/20240403053314/https://www.mcdonaldsallamerican.com/content/dam/sites/allamerican/2024-media-resources-files/McDonald%27s%20All%20American%20Boys%20Game%20Box%20Score.pdf (OCR)
+mcd,2025,ok,official_D,23.0,23.0,11/12,105/92,web.archive.org/web/20250516213210/https://www.mcdonaldsallamerican.com/content/dam/sites/allamerican/2025-media-resources-/Box%20Score%20West%20at%20East%2002%20April%20Boys.pdf
+jbc,2008,ok,official_E,21.0,21.0,11/10,124/114,web.archive.org/web/20110305031733/http://www.jordanbrandclassic.com:80/Archives/2008-jordan-brand-classic-national-box-score.html
+jbc,2011,ok,official_A,21.0,21.0,11/10,109/113,web.archive.org/web/20150405231049/http://jordanbrandclassic.com/wp-content/uploads/archive/jbc-all-american2011-stats.pdf
+jbc,2012,ok,ocr_shooting,7.0,7.0,2/5,18/41,web.archive.org/web/20150405200342/http://jordanbrandclassic.com/wp-content/uploads/archive/NationalBoxScore.pdf (OCR)
+jbc,2013,ok,official_A,22.0,22.0,11/11,102/98,web.archive.org/web/20160816033647/http://jordanbrandclassic.com/wp-content/uploads/archive/NationalBoxScore2013.pdf
+jbc,2014,ok,official_A,23.0,23.0,11/12,158/147,web.archive.org/web/20150406003813/http://jordanbrandclassic.com/wp-content/uploads/archive/2014nationalboxscore.pdf
+jbc,2015,ok,official_A,22.0,22.0,10/12,116/118,web.archive.org/web/20150501031530/http://jordanbrandclassic.com/wp-content/uploads/2015/03/Box-Score-All-America-Game.pdf
+jbc,2016,ok,official_A,20.0,20.0,10/10,131/117,web.archive.org/web/20161228103814/http://jordanbrandclassic.com/wp-content/uploads/2016/01/Jordan-Classic-National-Box-Score.pdf
+jbc,2017,ok,official_A,23.0,23.0,11/12,116/124,web.archive.org/web/20170420150506/http://jordanbrandclassic.com/wp-content/uploads/2017/04/2017-Jordan-Brand-Classic-National-Boys-Game.pdf
+jbc,2018,ok,official_A,19.0,19.0,10/9,136/146,web.archive.org/web/20180508185136/https://jordanbrandclassic.com/wp-content/uploads/2018/04/2018JBCBoysFinalBox.pdf
+jbc,2019,ok,official_A,23.0,23.0,12/11,125/132,web.archive.org/web/20221207031941/https://jordanbrandclassic.com/wp-content/uploads/2019/04/Boys-Game.pdf
+jbc,2022,ok,ocr_shooting,20.0,20.0,10/10,118/101,web.archive.org/web/20220516163000/https://jordanbrandclassic.com/wp-content/uploads/2022/04/Boys-Jordan-Game-4-15-22.pdf (OCR)
+hs,2006,ok,usab_html,21.0,21.0,11/10,91/109,web.archive.org/web/20150907031652/http://www.usab.com/history/nike-hoop-summit/ixth-annual-nike-hoop-summit-2006.aspx
+hs,2007,ok,usab_html,21.0,20.0,11/10,80/100,web.archive.org/web/20150907023833/http://www.usab.com/history/nike-hoop-summit/xth-annual-nike-hoop-summit-2007.aspx
+hs,2008,ok,usab_html,21.0,21.0,11/10,78/98,web.archive.org/web/20150325163335/http://www.usab.com:80/history/nike-hoop-summit/xith-annual-nike-hoop-summit-2008.aspx
+hs,2009,ok,usab_html,20.0,20.0,10/10,97/89,web.archive.org/web/20150906234859/http://www.usab.com/history/nike-hoop-summit/xii-annual-nike-hoop-summit-2009.aspx
+hs,2010,ok,usab_html,20.0,20.0,10/10,97/101,web.archive.org/web/20150325182325/http://www.usab.com:80/history/nike-hoop-summit/xiii-annual-nike-hoop-summit-2010.aspx
+hs,2011,ok,usab_html,21.0,21.0,11/10,80/92,web.archive.org/web/20150325182254/http://www.usab.com:80/history/nike-hoop-summit/xiv-annual-nike-hoop-summit-2011.aspx
+hs,2012,ok,usab_html,21.0,21.0,11/10,84/75,web.archive.org/web/20150325182334/http://www.usab.com:80/history/nike-hoop-summit/xv-annual-nike-hoop-summit-2012.aspx
+hs,2013,ok,usab_html,21.0,21.0,11/10,112/98,web.archive.org/web/20150928174807/http://www.usab.com/history/nike-hoop-summit/xvi-annual-nike-hoop-summit-2013.aspx
+hs,2014,ok,usab_html,22.0,21.0,11/11,73/84,web.archive.org/web/20150907023503/http://www.usab.com/history/nike-hoop-summit/xvii-annual-nike-hoop-summit-2014.aspx
+hs,2015,ok,usab_html,22.0,21.0,11/11,103/101,web.archive.org/web/20150907022832/http://www.usab.com/history/nike-hoop-summit/xviii-annual-nike-hoop-summit-2015.aspx
+hs,2016,ok,usab_html,24.0,24.0,12/12,67/101,web.archive.org/web/20190720181209/https://www.usab.com/history/nike-hoop-summit/xix-annual-nike-hoop-summit-2016.aspx
+hs,2017,ok,usab_html,23.0,23.0,12/11,87/98,web.archive.org/web/20170809132409/https://www.usab.com/history/nike-hoop-summit/xx-annual-nike-hoop-summit-2017.aspx
+hs,2018,ok,usab_html,22.0,22.0,12/10,89/76,web.archive.org/web/20190720182707/https://www.usab.com/history/nike-hoop-summit/xxi-annual-nike-hoop-summit-2018.aspx
+hs,2019,ok,usab_html,24.0,23.0,12/12,87/93,web.archive.org/web/20191203224550/https://www.usab.com/history/nike-hoop-summit/xxii-annual-nike-hoop-summit-2019.aspx
+hs,2022,NO_SOURCE,,,,,,

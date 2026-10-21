@@ -1,0 +1,84 @@
+file                  path                       
+test_2019_inputs.csv  college_2008plus                 96
+                      college_declared                 21
+                      international                    12
+                      college_pre2008_or_unlinked       8
+test_2020_inputs.csv  college_2008plus                 75
+                      college_declared                 18
+                      international                    10
+                      college_pre2008_or_unlinked       8
+                      other                             1
+test_2021_inputs.csv  college_declared                108
+                      college_2008plus                101
+                      college_pre2008_or_unlinked      15
+                      international                     9
+test_2022_inputs.csv  college_2008plus                 70
+                      international                    11
+                      college_declared                  9
+                      college_pre2008_or_unlinked       7
+test_2023_inputs.csv  college_2008plus                 77
+                      international                    14
+                      college_pre2008_or_unlinked       6
+                      college_declared                  4
+test_2024_inputs.csv  college_2008plus                 81
+                      international                    12
+                      college_declared                 11
+                      college_pre2008_or_unlinked      10
+test_2025_inputs.csv  college_2008plus                 89
+                      international                    13
+                      college_pre2008_or_unlinked       2
+                      college_declared                  2
+train_2000_2018.csv   college_2008plus               1034
+                      international                   219
+                      college_pre2008_or_unlinked     195
+                      other                            10
+                                         n  mean_filled  impact  usg  ts  gp  mins  zero
+draft_year path                                                                         
+2007       college_pre2008_or_unlinked   2         14.5       0    1   1   1     1     0
+           international                 7         19.4       5    5   5   5     5     0
+2008       college_pre2008_or_unlinked   1         25.0       1    1   1   1     1     0
+           international                10         23.7      10    7   7  10     9     0
+2009       college_pre2008_or_unlinked   2         27.5       2    2   2   2     2     0
+           international                 7         21.9       6    5   5   6     6     0
+2010       college_pre2008_or_unlinked   3         20.7       1    1   1   3     3     0
+           international                 5         27.6       4    4   4   5     5     0
+2011       college_pre2008_or_unlinked   4         21.2       0    3   3   3     3     0
+           international                 9         26.8       9    8   8   9     9     0
+2012       college_pre2008_or_unlinked   2         13.0       1    1   1   1     1     0
+           international                11         26.0       9    7   7  11    11     0
+2013       college_pre2008_or_unlinked   4         13.2       2    2   2   2     2     0
+           international                14         26.7      13   10  11  14    14     0
+2014       college_pre2008_or_unlinked   3         22.3       0    2   2   3     3     0
+           international                14         27.1      11   11  11  14    14     0
+2015       college_pre2008_or_unlinked   3         15.7       1    1   1   2     2     0
+           international                11         25.1       9    8   8  10    10     0
+2016       college_pre2008_or_unlinked   3         18.7       2    2   2   2     2     0
+           international                15         22.3      11    8   8  13    13     0
+2017       college_pre2008_or_unlinked  13         24.3       4   10  10  12    12     0
+           international                10         23.2       8    8   8   8     8     0
+2018       college_pre2008_or_unlinked   6          8.3       1    0   0   2     2     0
+           international                 9         25.9       7    7   7   9     9     0
+2019       college_pre2008_or_unlinked   8         17.4       2    4   4   5     5     0
+           international                12         27.2       9    8   8  12    12     0
+2020       college_pre2008_or_unlinked   8         14.0       4    4   4   4     4     0
+           international                10         26.3      10    8   8  10    10     0
+2021       college_pre2008_or_unlinked  15         21.9       1   11  11  12    12     0
+           international                 9         25.7       7    7   7   8     8     0
+2022       college_pre2008_or_unlinked   7         16.9       0    4   4   4     4     0
+           international                11         26.1       7   10  10  10    10     0
+2023       college_pre2008_or_unlinked   6         22.3       0    3   5   5     5     0
+           international                14         25.9       5   10  10  13    13     0
+2024       college_pre2008_or_unlinked  10         24.5       1    8   8   9     9     0
+           international                12         25.9       6    9   9  12    12     0
+2025       college_pre2008_or_unlinked   2         26.0       1    1   1   2     2     0
+           international                13         26.8      10   12  12  13    13     0
+count    305.000000
+mean      23.442623
+std        9.369471
+min        1.000000
+25%       23.000000
+50%       27.000000
+75%       29.000000
+max       33.000000
+Name: n_intl_filled, dtype: float64
+0 missing names; was_drafted {1: 168, 0: 137}
